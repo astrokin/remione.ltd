@@ -1,0 +1,91 @@
+Smart Cleaner Terms & Conditions
+
+20.05.2024
+
+By downloading or using Smart Cleaner, you automatically agree to these
+terms, so please ensure you read them carefully. You are not permitted
+to copy, modify, or alter the app, any part of the app, or our
+trademarks in any way. You must not attempt to extract the app's source
+code, translate the app into other languages, or create derivative
+versions. The app and all associated trademarks, copyright, database
+rights, and other intellectual property rights remain the property of
+Alexey Strokin.
+
+Alexey Strokin is dedicated to making the app as useful and efficient as
+possible. As such, we reserve the right to modify the app or charge for
+its services at any time and for any reason. We will always clearly
+communicate any charges or changes to the app or its services.
+
+Smart Cleaner stores and processes personal data you provide to offer
+our service. You are responsible for maintaining your phone and app
+access security. We recommend not jailbreaking or rooting your phone, as
+doing so may make your device vulnerable to malware, viruses, or
+malicious programs, compromise security features, and impact Smart
+Cleaner functionality.
+
+The app uses third-party services with their own Terms and Conditions.
+
+Links to Terms and Conditions of third-party service providers used by
+the app:
+
+-   Google Play Services
+
+-   Google Analytics for Firebase
+
+-   Firebase Crashlytics
+
+-   Facebook
+
+-   Adjust
+
+-   RevenueCat
+
+Please note that Alexey Strokin is not responsible for certain aspects
+related to the app. The app requires an active internet connection,
+either Wi-Fi or provided by your mobile network provider. Alexey Strokin
+cannot be held accountable if the app does not function optimally due to
+a lack of Wi-Fi or insufficient data allowance.
+
+When using the app without Wi-Fi, your mobile network provider's terms
+and agreement still apply, potentially resulting in data usage charges
+or other third-party fees. By using the app, you accept responsibility
+for these charges, including data roaming charges if you use the app
+outside your home territory without disabling data roaming. If you are
+not the device's bill payer, we assume you have obtained the bill
+payer's permission to use the app.
+
+Similarly, Alexey Strokin cannot always be responsible for your use of
+the app. You must ensure your device remains charged to access the
+service. If your device runs out of battery, we cannot accept
+responsibility.
+
+Although we strive to ensure the app is up-to-date and accurate, we rely
+on third parties for information. Alexey Strokin assumes no liability
+for any loss, direct or indirect, resulting from relying solely on the
+app's functionality.
+
+We may occasionally update the app. Smart Cleaner is currently available
+on iOS, but system requirements may change, and you will need to
+download updates to continue using the app. Alexey Strokin does not
+guarantee that the app will always be updated for relevance or
+compatibility with your device's iOS version. However, you agree to
+accept and install any updates when offered.
+
+We may also decide to stop providing the app and terminate its use at
+any time without prior notice. Upon termination, unless otherwise
+stated, (a) the rights and licenses granted to you in these terms will
+end, and (b) you must cease using the app and, if necessary, delete it
+from your device.
+
+Changes to These Terms and Conditions
+
+We may update our Terms and Conditions periodically. You are advised to
+review this page regularly for any changes. We will notify you of any
+changes by posting the updated Terms and Conditions on this page.
+
+These updated Terms and Conditions are effective as of 2023-05-09.
+
+Contact Us
+
+If you have any questions or suggestions about our Terms and Conditions,
+please do not hesitate to contact us at cleaner.app@icloud.com

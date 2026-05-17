@@ -1,4 +1,12 @@
 import React, { useEffect, useMemo, useState } from "react";
+import privacyCleanerText from "./legal/privacy-cleaner.txt?raw";
+import privacyDrawioText from "./legal/privacy-drawio.txt?raw";
+import privacyHermesText from "./legal/privacy-hermes.txt?raw";
+import privacyPlannerText from "./legal/privacy-planner.txt?raw";
+import termsCleanerText from "./legal/terms-cleaner.txt?raw";
+import termsDrawioText from "./legal/terms-drawio.txt?raw";
+import termsHermesText from "./legal/terms-hermes.txt?raw";
+import termsPlannerText from "./legal/terms-planner.txt?raw";
 
 const projects = [
   {
@@ -152,6 +160,17 @@ const projects = [
   }
 ];
 
+const legalPages = {
+  "/terms-drawio": { text: termsDrawioText },
+  "/privacy-drawio": { text: privacyDrawioText },
+  "/terms-hermes": { text: termsHermesText },
+  "/privacy-hermes": { text: privacyHermesText },
+  "/terms-planner": { text: termsPlannerText },
+  "/privacy-planner": { text: privacyPlannerText },
+  "/terms-cleaner": { text: termsCleanerText },
+  "/privacy-cleaner": { text: privacyCleanerText }
+};
+
 function App() {
   const [locationKey, setLocationKey] = useState(() => window.location.pathname + window.location.hash);
 
@@ -169,12 +188,17 @@ function App() {
     const match = window.location.pathname.match(/^\/work\/([^/]+)\/?$/);
     return match ? projects.find((project) => project.slug === match[1]) : null;
   }, [locationKey]);
+  const currentLegalPage = useMemo(() => {
+    const path = window.location.pathname.replace(/\/$/, "") || "/";
+    return legalPages[path] ?? null;
+  }, [locationKey]);
 
   useEffect(() => {
-    const title = currentProject ? `${currentProject.title} · am2` : "Remione - Mobile Apps for iOS";
+    const legalTitle = currentLegalPage ? getLegalBlocks(currentLegalPage.text)[0] : null;
+    const title = currentProject ? `${currentProject.title} · am2` : legalTitle || "Remione - Mobile Apps for iOS";
     document.title = title;
 
-    if (!currentProject && window.location.hash) {
+    if (!currentProject && !currentLegalPage && window.location.hash) {
       window.requestAnimationFrame(() => {
         document.querySelector(window.location.hash)?.scrollIntoView({ block: "start" });
       });
@@ -186,7 +210,7 @@ function App() {
   return (
     <>
       <Header />
-      <main>{currentProject ? <ProjectPage project={currentProject} /> : <HomePage />}</main>
+      <main>{currentLegalPage ? <LegalPage page={currentLegalPage} /> : currentProject ? <ProjectPage project={currentProject} /> : <HomePage />}</main>
     </>
   );
 }
@@ -423,6 +447,68 @@ function AppStoreButton({ href }) {
       </span>
     </a>
   );
+}
+
+function LegalPage({ page }) {
+  const [title, date, ...blocks] = getLegalBlocks(page.text);
+
+  return (
+    <>
+      <section className="legal-page">
+        <div className="legal-content">
+          <a className="back-link" href="/">
+            Home
+          </a>
+          <h1>{title}</h1>
+          {date && <p className="legal-date">{date}</p>}
+          <LegalBlocks blocks={blocks} />
+        </div>
+      </section>
+      <Footer />
+    </>
+  );
+}
+
+function LegalBlocks({ blocks }) {
+  const rendered = [];
+
+  for (let index = 0; index < blocks.length; index += 1) {
+    const block = blocks[index];
+
+    if (block.startsWith("-")) {
+      const items = [];
+      while (index < blocks.length && blocks[index].startsWith("-")) {
+        items.push(blocks[index].replace(/^-\s+/, ""));
+        index += 1;
+      }
+      index -= 1;
+      rendered.push(
+        <ul key={`list-${index}`}>
+          {items.map((item) => (
+            <li key={item}>{item}</li>
+          ))}
+        </ul>
+      );
+    } else if (isLegalHeading(block)) {
+      rendered.push(<h2 key={block}>{block}</h2>);
+    } else {
+      rendered.push(<p key={`${index}-${block.slice(0, 24)}`}>{block}</p>);
+    }
+  }
+
+  return <div className="legal-body">{rendered}</div>;
+}
+
+function getLegalBlocks(text) {
+  return text
+    .trim()
+    .split(/\n\s*\n/)
+    .map((block) => block.replace(/\s*\n\s*/g, " ").trim())
+    .filter(Boolean);
+}
+
+function isLegalHeading(block) {
+  return block.length <= 70 && !block.startsWith("-") && !/[.!?]$/.test(block) && /^[A-Z0-9]/.test(block);
 }
 
 function Footer() {
