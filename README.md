@@ -29,3 +29,5 @@ Deploy manually from the terminal:
 ```bash
 npm run deploy
 ```
+
+This deploy publishes Firebase Hosting and the Firestore security rules used by the contact form. Make sure Firestore is enabled in the Firebase Console for the `remione-ltd` project before deploying.

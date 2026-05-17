@@ -303,11 +303,45 @@ function HomePage() {
 }
 
 function ContactSection() {
-  const [status, setStatus] = useState("");
+  const [status, setStatus] = useState({ message: "", type: "" });
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
-  function handleSubmit(event) {
+  async function handleSubmit(event) {
     event.preventDefault();
-    setStatus("Message form is ready for a Firebase or email backend. Telegram is active now.");
+    const form = event.currentTarget;
+    const formData = new FormData(form);
+    const name = String(formData.get("name") || "").trim();
+    const email = String(formData.get("email") || "").trim();
+    const message = String(formData.get("message") || "").trim();
+
+    if (!name || !email || !message) {
+      setStatus({ message: "Please fill in all fields.", type: "error" });
+      return;
+    }
+
+    setIsSubmitting(true);
+    setStatus({ message: "", type: "" });
+
+    try {
+      const [{ addDoc, collection, getFirestore, serverTimestamp }, { app }] = await Promise.all([
+        import("firebase/firestore"),
+        import("./firebase.js")
+      ]);
+      const db = getFirestore(app);
+
+      await addDoc(collection(db, "contactRequests"), {
+        name,
+        email,
+        message,
+        createdAt: serverTimestamp()
+      });
+      form.reset();
+      setStatus({ message: "Message sent. I will get back to you soon.", type: "success" });
+    } catch {
+      setStatus({ message: "Could not send the message. Please try Telegram for now.", type: "error" });
+    } finally {
+      setIsSubmitting(false);
+    }
   }
 
   return (
@@ -315,13 +349,15 @@ function ContactSection() {
       <h2>Contact Us</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-row">
-          <input type="text" name="name" placeholder="Name" aria-label="Name" />
-          <input type="email" name="email" placeholder="Email" aria-label="Email" />
+          <input type="text" name="name" placeholder="Name" aria-label="Name" maxLength="120" required />
+          <input type="email" name="email" placeholder="Email" aria-label="Email" maxLength="180" required />
         </div>
-        <textarea name="message" placeholder="Message" aria-label="Message" />
-        <button type="submit">Send</button>
-        <p className="form-status" aria-live="polite">
-          {status}
+        <textarea name="message" placeholder="Message" aria-label="Message" maxLength="2000" required />
+        <button type="submit" disabled={isSubmitting}>
+          {isSubmitting ? "Sending..." : "Send"}
+        </button>
+        <p className={`form-status ${status.type}`} aria-live="polite">
+          {status.message}
         </p>
       </form>
     </section>
