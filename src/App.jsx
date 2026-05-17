@@ -282,20 +282,6 @@ function HomePage() {
         </div>
       </section>
 
-      <section className="page-section cta-section">
-        <div className="section-rule">
-          <h2>Have a project in mind?</h2>
-        </div>
-        <div className="cta-grid">
-          <p>
-            If you want to chat about a project, send me a message on <a href="https://t.me/ale_stro">Telegram</a>.
-          </p>
-          <a className="telegram-link" href="https://t.me/ale_stro">
-            Open Telegram
-          </a>
-        </div>
-      </section>
-
       <ContactSection />
       <Footer />
     </>
@@ -338,7 +324,7 @@ function ContactSection() {
       form.reset();
       setStatus({ message: "Message sent. I will get back to you soon.", type: "success" });
     } catch {
-      setStatus({ message: "Could not send the message. Please try Telegram for now.", type: "error" });
+      setStatus({ message: "Could not send the message. Please email info@remione.ltd.", type: "error" });
     } finally {
       setIsSubmitting(false);
     }

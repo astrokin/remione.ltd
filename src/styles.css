@@ -95,8 +95,7 @@ img {
 }
 
 .site-nav a:hover,
-.work-card:hover h3,
-.telegram-link:hover {
+.work-card:hover h3 {
   text-decoration: underline;
 }
 
@@ -223,7 +222,6 @@ img {
 }
 
 .about-copy p,
-.cta-grid p,
 .project-copy-block p {
   font-size: 24px;
   line-height: 1.45;
@@ -235,26 +233,9 @@ img {
   margin-top: 28px;
 }
 
-.cta-section {
-  padding-bottom: 76px;
-}
-
-.cta-grid {
-  display: grid;
-  gap: 80px;
-  grid-template-columns: minmax(0, 560px) minmax(0, 320px);
-  justify-content: space-between;
-  padding-top: 28px;
-}
-
-.telegram-link {
-  font-size: 32px;
-  line-height: 1.2;
-  margin-top: 4px;
-}
-
 .contact-section {
   border-top: 1px solid rgba(0, 0, 0, 0.08);
+  margin-top: 150px;
   padding: 104px 24px 110px;
 }
 
@@ -572,8 +553,7 @@ button:disabled {
 
   .intro-section p,
   .about-kicker,
-  .footer p,
-  .telegram-link {
+  .footer p {
     font-size: 28px;
   }
 
@@ -594,7 +574,6 @@ button:disabled {
 
   .work-grid,
   .about-grid,
-  .cta-grid,
   .project-copy-block {
     grid-template-columns: 1fr;
   }
@@ -605,13 +584,11 @@ button:disabled {
   }
 
   .about-grid,
-  .cta-grid,
   .project-copy-block {
     gap: 34px;
   }
 
   .about-copy p,
-  .cta-grid p,
   .project-copy-block p,
   .work-card h3,
   .work-card p {
@@ -624,6 +601,10 @@ button:disabled {
 
   .contact-section h2 {
     font-size: 42px;
+  }
+
+  .contact-section {
+    margin-top: 96px;
   }
 
   .footer {
@@ -684,8 +665,7 @@ button:disabled {
 
   .intro-section p,
   .about-kicker,
-  .footer p,
-  .telegram-link {
+  .footer p {
     font-size: 24px;
   }
 
@@ -696,7 +676,6 @@ button:disabled {
   }
 
   .about-copy p,
-  .cta-grid p,
   .project-copy-block p,
   .work-card h3,
   .work-card p {
