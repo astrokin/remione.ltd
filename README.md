@@ -18,11 +18,10 @@ npm run preview
 
 ## Firebase deploy
 
-Authenticate once and attach the local repo to the Firebase project:
+Authenticate once. The repo is already configured to use the `remione-ltd` Firebase project:
 
 ```bash
 npx firebase login
-npx firebase use --add
 ```
 
 Deploy manually from the terminal:
@@ -30,5 +29,3 @@ Deploy manually from the terminal:
 ```bash
 npm run deploy
 ```
-
-The Firebase project id is intentionally not committed because it depends on the hosting project selected in the local Firebase CLI.
