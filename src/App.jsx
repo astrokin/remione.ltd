@@ -14,6 +14,7 @@ const projects = [
     title: "Drawio: AI Drawing & Sketches",
     teaser: "Transform your sketches into stunning artworks with AI.",
     appStore: "https://apps.apple.com/cy/app/drawio-ai-drawing-sketches/id6476892184",
+    legal: { terms: "/terms-drawio", privacy: "/privacy-drawio" },
     hero: "/assets/drawio-hero.jpg",
     images: ["/assets/drawio-detail-1.jpg", "/assets/drawio-detail-2.jpg", "/assets/drawio-detail-3.jpg"],
     next: "plan-post",
@@ -63,6 +64,7 @@ const projects = [
     title: "Plan Post Social Networks Aide",
     teaser: "Master Social Media Engagement with Plan Post: Your Ultimate Tool for Content Mastery",
     appStore: "https://apps.apple.com/us/app/plan-post-social-networks-aide/id6451217515?l=ru",
+    legal: { terms: "/terms-planner", privacy: "/privacy-planner" },
     hero: "/assets/plan-post-hero.jpg",
     images: [
       "/assets/plan-post-detail-1.jpg",
@@ -98,6 +100,7 @@ const projects = [
     title: "Hermes : AI Characters Chatbot",
     teaser: "Chat with Historical Figures and Unlock the Secrets of the Past",
     appStore: "https://apps.apple.com/us/app/hermes-ai-characters-chatbot/id6447547239?l=ru",
+    legal: { terms: "/terms-hermes", privacy: "/privacy-hermes" },
     hero: "/assets/hermes-hero.jpg",
     images: ["/assets/hermes-detail-1.jpg", "/assets/hermes-detail-2.jpg", "/assets/hermes-detail-3.jpg", "/assets/hermes-detail-4.jpg"],
     next: "drawio-ai-drawing-sketches",
@@ -128,6 +131,7 @@ const projects = [
     title: "Smart Photo Cleaner",
     teaser: "Clean Up Your Gallery and Free Up Space with One Click",
     appStore: "https://apps.apple.com/us/app/smart-o%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0-photo-cleaner/id1540103598?l=ru",
+    legal: { terms: "/terms-cleaner", privacy: "/privacy-cleaner" },
     hero: "/assets/smart-cleaner-hero.jpg",
     images: [
       "/assets/smart-cleaner-detail-1.jpg",
@@ -412,6 +416,7 @@ function ProjectPage({ project }) {
           ))}
         </div>
       </section>
+      <ProjectLegalLinks legal={project.legal} />
       <section className="project-gallery">
         <div className="wide-content">
           {[project.hero, ...project.images].map((image) => (
@@ -429,6 +434,24 @@ function ProjectPage({ project }) {
       </section>
       <Footer />
     </>
+  );
+}
+
+function ProjectLegalLinks({ legal }) {
+  if (!legal) {
+    return null;
+  }
+
+  return (
+    <section className="project-legal-links">
+      <div className="narrow-content">
+        <h2>Legal</h2>
+        <div className="project-legal-list">
+          <a href={legal.terms}>Terms &amp; Conditions</a>
+          <a href={legal.privacy}>Privacy Policy</a>
+        </div>
+      </div>
+    </section>
   );
 }
 

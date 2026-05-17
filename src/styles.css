@@ -409,6 +409,43 @@ button:disabled {
   padding: 42px 0 120px;
 }
 
+.project-legal-links {
+  padding: 0 24px 120px;
+}
+
+.project-legal-links .narrow-content {
+  border-top: 2px solid var(--ink);
+  padding-top: 40px;
+}
+
+.project-legal-links h2 {
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0 0 28px;
+}
+
+.project-legal-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.project-legal-list a {
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  border-radius: 8px;
+  color: var(--ink);
+  display: inline-flex;
+  font-size: 20px;
+  line-height: 1.2;
+  padding: 14px 18px;
+  text-decoration: none;
+}
+
+.project-legal-list a:hover {
+  border-color: var(--ink);
+}
+
 .app-store-button {
   align-items: center;
   background: #000000;
@@ -718,6 +755,10 @@ button:disabled {
     padding-bottom: 88px;
   }
 
+  .project-legal-links {
+    padding-bottom: 88px;
+  }
+
   .project-gallery img:not(:first-child) {
     width: 100%;
   }
@@ -749,6 +790,7 @@ button:disabled {
 
   .section-rule h2,
   .project-copy-block h2,
+  .project-legal-links h2,
   .next-project a {
     font-size: 36px;
   }
