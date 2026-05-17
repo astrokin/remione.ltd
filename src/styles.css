@@ -264,8 +264,30 @@ img {
   font-size: 50px;
   font-weight: 700;
   line-height: 1.2;
-  margin: 0 0 58px;
+  margin: 0 0 28px;
   text-align: center;
+}
+
+.email-button {
+  align-items: center;
+  background: var(--dark);
+  border-radius: 8px;
+  color: #ffffff;
+  display: flex;
+  font-size: 16px;
+  font-weight: 600;
+  height: 52px;
+  justify-content: center;
+  line-height: 1.4;
+  margin: 0 auto 28px;
+  max-width: 540px;
+  padding: 15px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.email-button:hover {
+  background: #000000;
 }
 
 .contact-section form {

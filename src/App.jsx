@@ -347,6 +347,9 @@ function ContactSection() {
   return (
     <section id="contact" className="contact-section">
       <h2>Contact Us</h2>
+      <a className="email-button" href="mailto:info@remione.ltd">
+        Email Us
+      </a>
       <form onSubmit={handleSubmit}>
         <div className="form-row">
           <input type="text" name="name" placeholder="Name" aria-label="Name" maxLength="120" required />
