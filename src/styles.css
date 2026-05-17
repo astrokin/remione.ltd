@@ -362,6 +362,7 @@ button:disabled {
 .project-hero {
   background: var(--green);
   margin-top: -76px;
+  position: relative;
 }
 
 .project-hero img {
@@ -410,30 +411,21 @@ button:disabled {
 }
 
 .project-legal-links {
-  padding: 0 24px 120px;
-}
-
-.project-legal-links .narrow-content {
-  border-top: 2px solid var(--ink);
-  padding-top: 40px;
-}
-
-.project-legal-links h2 {
-  font-size: 42px;
-  font-weight: 400;
-  line-height: 1.2;
-  margin: 0 0 28px;
-}
-
-.project-legal-list {
+  bottom: 36px;
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
+  left: max(24px, calc((100% - 1120px) / 2));
+  margin-top: 0;
+  position: absolute;
+  z-index: 2;
 }
 
-.project-legal-list a {
+.project-legal-links a {
   border: 1px solid rgba(0, 0, 0, 0.22);
   border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.12);
   color: var(--ink);
   display: inline-flex;
   font-size: 20px;
@@ -442,8 +434,10 @@ button:disabled {
   text-decoration: none;
 }
 
-.project-legal-list a:hover {
+.project-legal-links a:hover {
   border-color: var(--ink);
+  background: var(--ink);
+  color: #ffffff;
 }
 
 .app-store-button {
@@ -739,6 +733,12 @@ button:disabled {
     height: 560px;
   }
 
+  .project-legal-links {
+    bottom: 24px;
+    left: 24px;
+    right: 24px;
+  }
+
   .project-title-band {
     padding: 96px 24px;
   }
@@ -752,10 +752,6 @@ button:disabled {
   }
 
   .project-copy-block {
-    padding-bottom: 88px;
-  }
-
-  .project-legal-links {
     padding-bottom: 88px;
   }
 
@@ -790,7 +786,6 @@ button:disabled {
 
   .section-rule h2,
   .project-copy-block h2,
-  .project-legal-links h2,
   .next-project a {
     font-size: 36px;
   }

@@ -388,6 +388,7 @@ function ProjectPage({ project }) {
     <>
       <section className="project-hero">
         <img src={project.hero} alt="Project image" />
+        <ProjectLegalLinks legal={project.legal} />
       </section>
       <section className="project-title-band">
         <div className="narrow-content">
@@ -416,7 +417,6 @@ function ProjectPage({ project }) {
           ))}
         </div>
       </section>
-      <ProjectLegalLinks legal={project.legal} />
       <section className="project-gallery">
         <div className="wide-content">
           {[project.hero, ...project.images].map((image) => (
@@ -443,15 +443,10 @@ function ProjectLegalLinks({ legal }) {
   }
 
   return (
-    <section className="project-legal-links">
-      <div className="narrow-content">
-        <h2>Legal</h2>
-        <div className="project-legal-list">
-          <a href={legal.terms}>Terms &amp; Conditions</a>
-          <a href={legal.privacy}>Privacy Policy</a>
-        </div>
-      </div>
-    </section>
+    <div className="project-legal-links" aria-label="Legal pages">
+      <a href={legal.terms}>Terms &amp; Conditions</a>
+      <a href={legal.privacy}>Privacy Policy</a>
+    </div>
   );
 }
 
