@@ -1,11 +1,17 @@
 import React from "react";
-import { createRoot } from "react-dom/client";
+import { createRoot, hydrateRoot } from "react-dom/client";
 import App from "./App.jsx";
-import "./firebase.js";
 import "./styles.css";
-
-createRoot(document.getElementById("root")).render(
+const root = document.getElementById("root");
+const prerendered = root.hasChildNodes();
+const app = (
   <React.StrictMode>
-    <App />
+    <App
+      pathname={window.location.pathname}
+      initialSearch={prerendered ? "" : window.location.search}
+    />
   </React.StrictMode>
 );
+if (prerendered) hydrateRoot(root, app);
+else createRoot(root).render(app);
+void import("./firebase.js");

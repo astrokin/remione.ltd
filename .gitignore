@@ -3,3 +3,5 @@ dist
 .firebase
 .DS_Store
 *.log
+
+.generated/
