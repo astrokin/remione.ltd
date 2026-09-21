@@ -1,0 +1,287 @@
+Terms of Service
+
+Smart TV Remote Control Application  |  Effective date: 11 July 2026
+
+These Terms govern use of the Smart TV remote control application provided by Remione LTD. The App is licensed, not sold, and is intended to control authorised compatible devices on the same local network.
+
+These Terms of Service (“Terms”) form a legally binding agreement between the user (“you” or “your”) and Remione LTD (“Remione”, “we”, “us”, or “our”) governing use of the mobile application, website, and related services (collectively, the “Services”). By downloading, installing, purchasing, accessing, or using the App, you agree to these Terms. If you do not agree, do not use the Services.
+
+1. Description of the App
+
+The App is designed to discover, connect to, pair with, and control compatible Smart TVs, streaming devices, and media devices through a local Wi-Fi or other local network.
+
+Depending on the device and App version, features may include:
+
+device discovery and pairing;
+
+power, volume, channel, navigation, menu, and media controls;
+
+text input and application launching;
+
+media sharing or casting features;
+
+device-specific controls and shortcuts.
+
+The App may communicate through IP, HTTP, HTTPS, WebSocket, TCP, UDP, Bonjour, or manufacturer-specific local-network protocols. Compatibility with every television, model, firmware version, router, network, or feature is not guaranteed.
+
+2. Eligibility
+
+You must be legally capable of entering into a binding agreement. If you are below the age of legal majority in your jurisdiction, you may use the App only with the consent and supervision of a parent or legal guardian.
+
+By using the Services, you represent that:
+
+you have authority to agree to these Terms;
+
+you are authorised to access and control each connected television or device;
+
+your use complies with applicable law and third-party rights;
+
+information you provide to us is accurate.
+
+3. Licence
+
+Subject to these Terms, Remione grants you a limited, personal, revocable, non-exclusive, non-transferable, and non-sublicensable licence to install and use the App on Apple devices that you own or control, in accordance with the App Store Usage Rules. The App is licensed, not sold. No ownership rights are transferred.
+
+4. Acceptable Use
+
+You must not:
+
+control a television, device, or network without the owner’s permission;
+
+interfere with another person’s use of a television, device, or network;
+
+use the App for harassment, surveillance, disruption, or unlawful activity;
+
+gain or attempt to gain unauthorised access to a device, account, network, or system;
+
+scan networks that you do not own or have permission to use;
+
+send malicious, excessive, automated, or disruptive commands;
+
+bypass pairing, authentication, access-control, or security measures;
+
+reverse engineer, decompile, disassemble, decode, or derive source code except where applicable law expressly permits;
+
+copy, modify, distribute, sublicense, sell, rent, lease, or commercially exploit the App;
+
+remove proprietary notices or use Remione branding without permission;
+
+introduce malware, harmful code, or automated scripts;
+
+damage, disable, overburden, or impair the Services;
+
+violate applicable law or third-party rights.
+
+5. Local Network Access
+
+The App requires access to the local network. You are responsible for connecting the Apple device and television to a compatible and secure network, granting required iOS or iPadOS permissions, completing device pairing, maintaining the router and television settings, and ensuring that you are authorised to control connected devices.
+
+Remione is not responsible for connectivity problems caused by routers, firewalls, VPNs, guest networks, access-point isolation, manufacturer restrictions, firmware, operating-system settings, or third-party equipment.
+
+6. Device Compatibility
+
+Compatibility depends on factors outside Remione’s control, including television brand and model, firmware, enabled device settings, regional variations, manufacturer protocols, network configuration, authentication requirements, and operating-system changes.
+
+A device that currently works may stop working after a firmware, iOS, App, manufacturer-policy, or network change. References to a manufacturer or platform do not guarantee support for every product from that manufacturer or platform.
+
+7. Text Input, Casting, and Third-Party Content
+
+Where the App provides text input, casting, media sharing, or application-launching functionality, information may be sent directly to the selected television or third-party service. You are responsible for the content you transmit and for complying with copyright, licence, account, and service restrictions.
+
+Remione does not undertake to store text entered through the remote keyboard or media transmitted to the television. Television manufacturers, media services, and third-party applications may process that content independently under their own terms and privacy policies.
+
+8. Third-Party Products and Trademarks
+
+Unless expressly stated otherwise, Remione and the App are independent from and are not affiliated with, sponsored by, endorsed by, or officially connected with Apple or any television manufacturer, streaming-device manufacturer, media platform, or content provider.
+
+All product names, logos, trademarks, and brands belong to their respective owners and are used only for identification, compatibility information, and descriptive purposes.
+
+9. Free and Paid Features
+
+The App may include free functionality and paid premium functionality. Certain controls, devices, usage levels, casting features, or other functionality may require an auto-renewable subscription, non-consumable purchase, lifetime-access product, or another in-app purchase.
+
+The product, billing period, price, trial, and included features are displayed before purchase. Prices may vary by country, currency, taxes, App Store storefront, and promotional eligibility.
+
+10. Auto-Renewable Subscriptions
+
+By purchasing a subscription, you acknowledge that:
+
+payment is charged to your Apple ID after purchase confirmation;
+
+the subscription automatically renews unless cancelled before renewal in accordance with Apple’s applicable rules;
+
+Apple may charge the displayed renewal price and billing period;
+
+subscriptions are managed and cancelled through Apple ID or App Store subscription settings;
+
+deleting the App does not cancel a subscription;
+
+access to paid functionality may end when a subscription expires, is cancelled, refunded, or revoked;
+
+billing, collection, payment methods, and most refund decisions are handled by Apple.
+
+Cancellation normally prevents future renewal but does not refund an already started billing period, except where required by law or approved by Apple.
+
+11. Free Trials and Promotional Offers
+
+A subscription may include a free trial, introductory price, promotional offer, or discounted period. The terms shown on the purchase screen apply. Unless cancelled before the offer ends, the subscription may automatically convert to a paid subscription at the displayed price. Eligibility is determined by Apple and may depend on previous purchases or subscriptions.
+
+12. Lifetime Access
+
+A product described as “lifetime”, “lifetime access”, “permanent access”, or similar wording grants access to the applicable paid features for the commercial lifetime of the App or relevant service, subject to these Terms and mandatory consumer law.
+
+It does not guarantee that:
+
+the App will operate forever;
+
+every future feature will be included;
+
+every future television or device will be supported;
+
+the App will remain available on every operating system;
+
+manufacturers will continue to provide compatible protocols or services.
+
+We may discontinue the App or a feature where continued operation is no longer reasonably, legally, technically, or commercially possible, subject to applicable consumer rights.
+
+13. Restore Purchases
+
+Eligible purchases may be restored using the Apple ID originally used for purchase. Restoration may fail if a different Apple ID is used, Apple cannot validate the transaction, the product is no longer eligible, connectivity is unavailable, or the transaction was refunded, revoked, or cancelled.
+
+14. Refunds
+
+Purchases are processed by Apple. Refund eligibility and decisions are generally governed by Apple’s policies and applicable consumer law. Remione does not ordinarily have access to Apple’s payment systems and cannot directly issue App Store refunds unless Apple provides a mechanism allowing it. Nothing in these Terms limits mandatory refund or consumer rights.
+
+15. Updates and Changes
+
+We may release updates that add, modify, or remove features, improve compatibility, fix errors, address security issues, change interfaces, or change supported televisions and protocols. The latest version may be required for continued use.
+
+We may modify, suspend, replace, or discontinue all or part of the Services for technical, security, legal, commercial, or third-party compatibility reasons. Where required by consumer law, we will provide reasonable notice of material changes negatively affecting purchased digital content or services.
+
+16. Availability
+
+We aim to provide reliable Services but do not guarantee uninterrupted, secure, or error-free availability. The App may be unavailable because of maintenance, software errors, network failures, App Store issues, manufacturer changes, third-party outages, security incidents, or circumstances beyond our reasonable control.
+
+17. Safety and User Responsibility
+
+The App is a convenience remote control and is not designed for emergency systems, security systems, medical devices, industrial equipment, access-control systems, or other safety-critical applications.
+
+You must not use the App where delayed, incorrect, or failed commands could create a safety risk. You are responsible for keeping an original remote control or another suitable control method available where necessary.
+
+18. Intellectual Property
+
+The App and Services, including software, design, text, graphics, interfaces, icons, code, databases, branding, and other content, are owned by Remione or its licensors and protected by intellectual-property laws. Except for the limited licence granted in these Terms, no right, title, or interest is transferred.
+
+Feedback and suggestions may be used to improve the Services without restriction or compensation, provided that we do not publicly identify you without permission.
+
+19. Privacy
+
+Our processing of personal data is described in the Privacy Policy. By using the Services, you acknowledge that information may be processed for local-network discovery, device connection, purchase validation, analytics, diagnostics, security, and support as described there.
+
+20. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the Services are provided on an “as is” and “as available” basis.
+
+Remione does not guarantee that:
+
+the App will meet every requirement;
+
+every television, device, model, or feature will be compatible;
+
+all commands will work continuously or correctly;
+
+discovered device information will always be accurate;
+
+compatibility will continue after firmware, operating-system, or manufacturer changes;
+
+all errors will be corrected;
+
+third-party protocols and services will remain available.
+
+To the maximum extent permitted by law, we disclaim implied warranties of merchantability, fitness for a particular purpose, satisfactory quality, non-infringement, availability, and compatibility. Nothing in these Terms excludes rights or warranties that cannot legally be excluded.
+
+21. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Remione and its directors, employees, contractors, affiliates, and licensors are not liable for indirect, incidental, special, consequential, exemplary, or punitive damages arising from the Services, including loss of profits, revenue, data, business opportunity, device access, or television or network availability.
+
+Where liability cannot be excluded, Remione’s total aggregate liability arising from the Services is limited to the greater of (a) the amount paid by you for the App during the 12 months preceding the event giving rise to the claim or (b) EUR 50.
+
+This limitation does not apply to liability that cannot be excluded or limited under applicable law, including fraud, fraudulent misrepresentation, death or personal injury caused by negligence, or mandatory consumer rights.
+
+22. Indemnification
+
+To the extent permitted by law, you agree to indemnify and hold harmless Remione and its directors, employees, contractors, and affiliates from claims, losses, liabilities, costs, and expenses arising from unlawful use, unauthorised control of a device, violation of these Terms, infringement of another person’s rights, or intentional interference with a network or device.
+
+This section does not require a consumer to indemnify Remione for Remione’s own breach, negligence, or unlawful conduct.
+
+23. Suspension and Termination
+
+You may stop using the App at any time. We may restrict, suspend, or terminate access where you materially violate these Terms, create a security or legal risk, misuse the App, or where termination is required by law or discontinuation of the relevant service.
+
+Termination does not automatically cancel an App Store subscription. Subscriptions must be cancelled through Apple ID settings. Provisions that by their nature should survive termination will remain effective.
+
+24. Apple-Specific Terms
+
+Where the App is obtained through Apple’s App Store:
+
+these Terms are between you and Remione, not Apple;
+
+Remione, not Apple, is responsible for the App and its content;
+
+Apple has no obligation to provide maintenance or support;
+
+Apple is not responsible for claims relating to the App except as required by law;
+
+Apple and its subsidiaries are third-party beneficiaries and may enforce the relevant provisions;
+
+your use must comply with the App Store Usage Rules;
+
+you represent that applicable trade restrictions do not prohibit you from receiving or using the App.
+
+If these Terms conflict with mandatory App Store terms, the mandatory App Store terms control.
+
+25. Export and Sanctions Compliance
+
+You may not use, export, re-export, or transfer the App in violation of applicable export-control, import, or trade-sanctions laws. You represent that applicable law does not prohibit you from receiving or using the App.
+
+26. Consumer Rights
+
+Nothing in these Terms limits or excludes rights granted under mandatory consumer law. Consumers in the European Union, European Economic Area, United Kingdom, and other jurisdictions may have mandatory rights concerning digital content and services, conformity, remedies, updates, termination, and refunds. Mandatory law prevails where it conflicts with these Terms.
+
+27. Changes to These Terms
+
+We may update these Terms to reflect changes in the Services, legal requirements, security, App Store rules, or business operations. Updated Terms will be published through the App, App Store listing, or website with a revised effective date. Where required, reasonable advance notice will be provided.
+
+If you do not agree to updated Terms, you must stop using the Services and cancel any active subscription. Continued use after the effective date constitutes acceptance to the extent permitted by law.
+
+28. Governing Law
+
+These Terms are governed by the laws of the Republic of Cyprus, without regard to conflict-of-law principles. If you are a consumer, this choice does not deprive you of mandatory protections provided by the laws of your country of habitual residence.
+
+29. Dispute Resolution and Jurisdiction
+
+Before initiating formal proceedings, you agree to contact us and attempt to resolve the dispute informally. Legal notices may be sent to info@remione.ltd with “Legal Dispute” in the subject line.
+
+Where permitted by law, disputes are subject to the competent courts of the Republic of Cyprus. Consumers may retain the right to bring proceedings in the courts of their country of residence and to use applicable regulatory, consumer-protection, or alternative dispute-resolution procedures.
+
+30. General Provisions
+
+Severability
+
+If a provision is invalid, unlawful, or unenforceable, it will be interpreted or limited to the minimum extent necessary, and the remaining provisions will continue in effect.
+
+No waiver
+
+Failure to enforce a provision does not waive that provision or any other right.
+
+Assignment
+
+You may not transfer rights or obligations under these Terms without our written consent. We may transfer these Terms in connection with a merger, restructuring, financing, or sale of all or part of our business, subject to applicable law.
+
+Entire agreement
+
+These Terms, the Privacy Policy, and purchase terms displayed in the App constitute the entire agreement concerning the Services.
+
+Contact Us
+
+Remione LTDCompany registration number: HE 463343Republic of CyprusEmail: info@remione.ltdContact form: https://remione.ltd/#contactWebsite: https://remione.ltd/

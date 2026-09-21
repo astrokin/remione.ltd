@@ -1,0 +1,201 @@
+{
+  "status": "complete",
+  "syncId": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475",
+  "completedAt": "2026-09-21T15:22:51.375Z",
+  "coverage": [
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "us",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "us",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "us",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "gb",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "gb",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "gb",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "fm",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "fm",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "fm",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "by",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "by",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "by",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "kz",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "kz",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "kz",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "ua",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "ua",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "ua",
+      "count": 15
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "ru",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "ru",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "ru",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "uz",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "uz",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "uz",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "nl",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "nl",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "nl",
+      "count": 16
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "us",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "by",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "kz",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "ua",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "ru",
+      "count": 4
+    }
+  ],
+  "listings": 29,
+  "missingLegal": []
+}

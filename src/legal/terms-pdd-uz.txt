@@ -1,0 +1,143 @@
+﻿Terms of Use for Uzbekistan PDD Tests Tickets 2026
+
+Terms of Use
+
+Last updated: July 30, 2026
+
+Country: Uzbekistan
+
+Application: Uzbekistan PDD Tests Tickets 2026
+
+Canonical URL: https://iapps.by/legal/uz/terms/
+
+Privacy Policy: https://iapps.by/legal/uz/privacy/
+
+Available languages: English - https://iapps.by/legal/uz/terms/; Русский - https://iapps.by/legal/uz/terms/ru/
+
+Acceptance
+
+----------
+
+By installing, opening, or using Uzbekistan PDD Tests Tickets 2026, you agree to these Terms of Use, the Privacy Policy, and the rules of the app store through which you obtained the app. If you do not agree, do not use the app.
+
+The app provider is iapps.by / Alexey Strokin, unless a different provider is expressly identified in the app listing on App Store or Google Play.
+
+Purpose and important limits
+
+----------------------------
+
+Uzbekistan PDD Tests Tickets 2026 provides educational materials, tests, tickets, rules, signs, fines, explanations, and practice modes for Uzbekistan traffic rules. The app is for study, self-checking, and reference purposes.
+
+The app is not a government service, is not affiliated with public authorities, examination centers, or driving schools, and does not replace official sources, professional training, legal advice, or real road signs and requirements.
+
+Rules, questions, fines, and examination requirements may change, vary by region, or apply differently in a specific situation. You are responsible for checking official sources and following the traffic rules in force.
+
+We try to keep materials current and useful, but we do not guarantee that content is error-free, complete, continuously available, suitable for a particular exam, or that using the app will result in passing an exam.
+
+AI assistant
+
+------------
+
+The optional AI explanation and road-rules assistants use OpenAI to generate educational answers from the supplied question context, explanations, textual image descriptions, and conversation. AI output may be incomplete, inaccurate, outdated, or inconsistent and is not an official interpretation, legal advice, or a substitute for current traffic rules, road signs, instructor guidance, or official examination materials.
+
+You must independently verify important information against official sources and always follow the law and actual road conditions. Do not use the assistant while driving or as real-time road guidance. Do not send personal, confidential, payment, document, or third-party data in assistant messages.
+
+Assistant messages are processed through Google Firebase and the OpenAI API as described in the Privacy Policy. OpenAI does not use API inputs or outputs to train its models by default unless the API customer expressly opts in.
+
+Per-minute and daily request limits may apply to both free and paid access. Premium may provide higher limits but does not guarantee unlimited requests. Current limits may be shown in the app and may change to protect availability, safety, and fair use.
+
+You may not automate assistant requests, evade App Check or usage limits, probe for hidden prompts or secrets, interfere with the service, or use it outside the driving-theory learning purpose. We may reject abusive or unrelated content and temporarily suspend or change this feature. Availability and response time are not guaranteed.
+
+License
+
+-------
+
+The app is licensed, not sold. You receive a limited, personal, revocable, non-transferable, non-exclusive license to use the app on devices that you own or control, only for personal non-commercial preparation and subject to App Store or Google Play rules.
+
+For App Store versions, Apple Media Services Terms and Apple Standard EULA also apply to the extent mandatory for your download: https://www.apple.com/legal/macapps/stdeula/. For Android versions, Google Play rules also apply.
+
+All rights not expressly granted to you are reserved by us and our licensors.
+
+Copyright and content
+
+---------------------
+
+The app, interface, design, structure, selection and arrangement of materials, databases, compilations, tests, explanations, localizations, illustrations, screenshots, texts, editorial materials, and other app elements are protected by copyright, database rights, trademarks, trade secrets, and other intellectual property rights of iapps.by / Alexey Strokin or the relevant right holders.
+
+If the app includes official legal texts or excerpts, those official materials belong to the relevant public sources and are used for informational purposes. Our selection, structure, processing, explanations, localization, presentation, database, interface, and study materials are protected by law.
+
+You may not copy, systematically screenshot, extract, scrape, index, publish, sell, transfer, license, use for AI/ML model training, create competing databases, or otherwise use app materials outside permitted personal use without our written permission.
+
+Prohibited use
+
+--------------
+
+You may not bypass payment or technical restrictions, share premium access outside store-approved mechanisms, interfere with the app, use automated scripts, reverse engineer, decompile, or attempt to extract source code except where mandatory law expressly allows it.
+
+You may not use the app unlawfully, violate rights of others, submit harmful materials, attempt unauthorized access to data or infrastructure, or use the app in a way that may harm us, users, app stores, or providers.
+
+Purchases and subscriptions
+
+---------------------------
+
+Paid features, one-time purchases, trial periods, and subscriptions, where available, are sold through App Store or Google Play. Price, term, access scope, trial terms, and renewal terms are shown in the app or store before purchase.
+
+Subscriptions may renew automatically until canceled in App Store or Google Play settings. Deleting the app does not cancel a subscription. Refunds, cancellations, and payment disputes are handled by the store under its rules and applicable law.
+
+We may change the scope of free and paid features, discontinue outdated offers, or change prices for future periods as allowed by store rules and law.
+
+Updates, availability, and feedback
+
+-----------------------------------
+
+We may release updates, fix errors, add or remove materials and features, change design, and change technical requirements. Some features may depend on device, OS version, country, store, internet availability, or third-party provider decisions.
+
+We may temporarily limit access to the app, materials, or support for maintenance, security, store requirements, legal compliance, or protection of rights.
+
+If you send ideas, reviews, corrections, texts, screenshots, or other materials, you confirm that you have the right to send them and grant us a free, perpetual, worldwide, non-exclusive license to use them for support, review, improvement, development, and promotion of the app without an obligation to pay compensation. Do not send confidential data, documents, payment data, personal data of third parties, or materials for which you do not own the rights.
+
+Privacy
+
+-------
+
+Data processing is described in the Privacy Policy: https://iapps.by/legal/uz/privacy/.
+
+Disclaimer of warranties
+
+------------------------
+
+The app and materials are provided as is and as available. To the maximum extent permitted by law, we disclaim implied warranties of fitness for a particular purpose, accuracy, completeness, uninterrupted operation, error-free operation, compatibility, and achievement of results.
+
+Nothing in these Terms limits mandatory consumer rights that cannot be limited under applicable law.
+
+Limitation of liability
+
+-----------------------
+
+To the maximum extent permitted by law, we are not liable for indirect, incidental, special, punitive, or consequential damages, loss of profits, loss of data, interruptions, content errors, user decisions, exam results, fines, traffic accidents, or other consequences related to use or inability to use the app.
+
+If liability cannot be excluded, it is limited to the greater of the amount you actually paid for the app or paid feature during the last 12 months or the minimum amount permitted by applicable law.
+
+Indemnity and termination
+
+-------------------------
+
+Where permitted by law, you agree to compensate us for reasonable losses, costs, and third-party claims arising from your unlawful use of the app, breach of these Terms, or infringement of intellectual property rights.
+
+We may limit or terminate access to the app or paid features if you breach these Terms, bypass payment, infringe rights, create security risks, or misuse the app. This does not limit your mandatory rights under App Store, Google Play, or applicable law.
+
+Applicable law, disputes, and changes
+
+-------------------------------------
+
+These Terms apply to the maximum extent permitted by the laws of the country where the app is provided to the user. If mandatory consumer or data protection laws in your country provide additional rights, those rights remain unaffected.
+
+Before contacting a public authority or court, you may contact pdd@iapps.by so we can try to resolve the issue directly. This does not limit your mandatory rights.
+
+We may update these Terms when the app, content, stores, providers, or law change. The updated version will be posted on this page. Continued use of the app after publication means acceptance of the updated Terms to the extent permitted by law.
+
+Contact
+
+-------
+
+Questions about these Terms can be sent to pdd@iapps.by.

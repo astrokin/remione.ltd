@@ -1,0 +1,289 @@
+Privacy Policy
+
+Smart TV Remote Control Application  |  Effective date: 11 July 2026
+
+This Privacy Policy explains how Remione LTD processes information when you use the Smart TV remote control application. The App connects your iPhone or iPad to compatible televisions and media devices over the same Wi-Fi or local network.
+
+Remione LTD (“Remione”, “we”, “us”, or “our”) is the data controller for the personal data described in this Privacy Policy, except where a third-party service acts as an independent controller. This Policy applies to the mobile application, our website at remione.ltd, and related support services (collectively, the “Services”).
+
+1. About the App
+
+The App allows users to discover, connect to, pair with, and control compatible Smart TVs, streaming devices, and media devices through a local Wi-Fi or other local network.
+
+scan the local network for compatible devices;
+
+identify supported devices and services;
+
+establish direct local connections;
+
+send remote-control commands using IP, HTTP, HTTPS, WebSocket, TCP, UDP, Bonjour, or manufacturer-specific protocols;
+
+remember selected devices, pairing information, and preferences on the user’s device.
+
+Unless expressly stated otherwise, remote-control commands are transmitted directly between the Apple device and the television or media device through the local network and are not routed through Remione’s servers.
+
+2. Information We Process
+
+2.1 Local network and television information
+
+To provide core functionality, the App may detect or process:
+
+local IP addresses and network service information;
+
+television or media-device names, manufacturer, model, and supported capabilities;
+
+device identifiers made available by the television or operating system;
+
+pairing, authentication, and connection status;
+
+previously selected devices and connection preferences;
+
+remote-control commands and technical responses.
+
+This information is generally processed locally on the user’s device. We do not use local-network access to monitor unrelated devices or activities on the network. We do not intentionally collect Wi-Fi passwords.
+
+2.2 Information stored locally
+
+selected television or media device;
+
+device name, local IP address, and supported protocol;
+
+pairing tokens or authentication information required by the television;
+
+connection, interface, and control preferences;
+
+information used to restore purchased functionality.
+
+Locally stored information normally remains until the user disconnects the device, resets the App, deletes the App, or the operating system removes the information. Deleting the App does not cancel an active subscription.
+
+2.3 Purchases and subscriptions
+
+Apple processes all App Store payments. Remione does not receive complete payment-card details. We and our subscription-management provider may receive or process:
+
+product and subscription identifiers;
+
+transaction identifiers and App Store receipts;
+
+purchase, trial, renewal, expiration, cancellation, and refund status;
+
+subscription entitlement and purchase-restoration information;
+
+App Store storefront, currency, and limited platform information;
+
+an anonymous or pseudonymous App User ID.
+
+2.4 Analytics, device, and usage information
+
+Where analytics is enabled and, where legally required, after consent, we may process:
+
+randomly generated installation identifiers, analytics-provider identifiers, and Identifier for Vendor (IDFV) where available and used;
+
+App launches, sessions, screens, and feature interactions;
+
+connection attempts, supported television type, connection results, and technical error codes;
+
+paywall, trial, purchase, subscription, renewal, and entitlement events;
+
+App version, device model, operating-system version, language, country or region, and time zone;
+
+attribution and advertising-campaign information where applicable;
+
+crash, performance, and diagnostic information where diagnostic services are enabled.
+
+Analytics identifiers are pseudonymous, not necessarily anonymous, because they may allow events from the same installation or device to be associated over time.
+
+We do not intentionally include the following information in analytics events:
+
+Wi-Fi or television-account passwords;
+
+television pairing codes or authentication tokens;
+
+the full content of text entered through the App’s keyboard;
+
+media content displayed on the television;
+
+communications sent through third-party television applications;
+
+precise GPS location, contacts, photos, or address-book information.
+
+2.5 Support communications
+
+name and email address;
+
+the content of the request and our response;
+
+screenshots, logs, or attachments voluntarily provided;
+
+App version, device model, television model, and network information supplied for troubleshooting.
+
+Users should not send passwords, payment-card details, television account credentials, or other unnecessary sensitive information.
+
+2.6 Website information
+
+When a user visits remione.ltd, our hosting and security providers may process IP address, browser and operating-system information, visited pages, access time, referring page, cookie identifiers, and server or security logs. Non-essential cookies are used only where permitted by law and, where required, after consent.
+
+3. Local Network Permission
+
+The App requires Apple’s Local Network permission to discover and communicate with compatible devices. If permission is denied, core remote-control features may not work. Permission can be changed in iOS or iPadOS settings. Granting permission does not give Remione ownership or general control of the user’s network.
+
+4. How We Use Information
+
+provide device discovery, pairing, connection, and remote-control functionality;
+
+remember connected devices and preferences;
+
+activate, validate, and restore paid functionality;
+
+maintain security and prevent fraud, abuse, and unauthorised access;
+
+diagnose errors, improve reliability, and support compatible devices;
+
+measure product usage and subscription performance;
+
+respond to support and privacy requests;
+
+comply with legal, tax, accounting, and regulatory obligations;
+
+establish, exercise, or defend legal claims.
+
+We do not sell personal data.
+
+5. Legal Bases for Processing
+
+Performance of a contract
+
+We process information necessary to provide the App, connect to compatible devices, validate purchases, restore access, and provide requested support.
+
+Legitimate interests
+
+We may process limited information to maintain and secure the App, prevent fraud, diagnose technical problems, understand aggregated product performance, and protect our legal rights, provided that these interests are not overridden by the user’s rights.
+
+Consent
+
+We rely on consent where required for non-essential analytics, advertising attribution, tracking, cookies, or protected device capabilities. Consent may be withdrawn at any time without affecting processing carried out before withdrawal.
+
+Legal obligations
+
+We process or retain information where necessary to comply with applicable accounting, tax, consumer-protection, regulatory, law-enforcement, or court requirements.
+
+6. Third-Party Service Providers
+
+The providers used may depend on the App version, enabled features, device settings, and consent choices.
+
+6.1 Apple
+
+Apple operates the App Store and processes downloads, in-app purchases, subscriptions, refunds, purchase restoration, and associated account and transaction information under Apple’s own terms and privacy policy.
+
+6.2 RevenueCat
+
+We use RevenueCat to manage and validate in-app purchases and subscriptions. RevenueCat may process an anonymous or pseudonymous App User ID, product and transaction identifiers, receipts, purchase and subscription history, entitlement status, trial and promotional-offer status, renewal and expiration information, and limited platform and App information. RevenueCat does not receive complete payment-card details from Remione.
+
+6.3 Amplitude
+
+Subject to consent where required by law, we use Amplitude for product analytics. Amplitude may process pseudonymous installation or device identifiers, IDFV where available and enabled, App events and event properties, sessions, App and device information, region, feature interactions, connection outcomes, and paywall or subscription-related interactions.
+
+6.4 Google Firebase
+
+We use selected Google Firebase services for App operation, security, analytics, configuration, or diagnostics. Depending on the modules enabled in the applicable App version, Google may process installation identifiers, App and device information, IP address and general location, analytics events, sessions, security and App-integrity signals, diagnostic information, crash reports, and technical logs.
+
+Firebase App Check may process device and App-integrity information to verify authentic installations and protect systems from abuse. If Google Analytics for Firebase is enabled, it may process pseudonymous identifiers, usage events, device information, purchase events, and attribution information, subject to consent where required.
+
+6.5 Google on-device conversion measurement
+
+Where enabled, Google’s on-device conversion measurement may be used to measure whether advertising campaigns result in installations, subscriptions, or other conversion events. It may process limited advertising, installation, device, and conversion information. We request App Tracking Transparency permission where Apple’s rules require it. Denying tracking permission does not prevent use of the App’s core remote-control functionality.
+
+6.6 Technical libraries
+
+The App also contains libraries used for networking, encryption, logging, local storage, interface layout, dependency management, compression, and similar technical functions. Inclusion of a library does not necessarily mean that its developer receives personal data. A provider is separately disclosed where it receives or independently processes personal data from the App.
+
+7. Sharing and Disclosure
+
+We may disclose information:
+
+to processors and service providers performing services for us;
+
+to Apple in connection with App Store distribution, purchases, and subscriptions;
+
+where required by law, regulation, court order, or lawful governmental request;
+
+where reasonably necessary to prevent fraud, abuse, security threats, or unlawful conduct;
+
+to protect the rights, safety, or property of Remione, users, or others;
+
+in connection with a merger, acquisition, restructuring, financing, or sale of all or part of the business;
+
+with the user’s consent or at the user’s direction.
+
+8. International Data Transfers
+
+Remione is established in Cyprus, within the European Union. Some providers may process information outside Cyprus or the European Economic Area. Where required, we use recognised safeguards such as adequacy decisions, Standard Contractual Clauses, supplementary contractual and technical measures, or another lawful transfer mechanism.
+
+9. Data Retention
+
+Local television and pairing information: until the device is disconnected, the App is reset, or the App is deleted, unless the television or operating system retains related information independently.
+
+Analytics and product-usage data: according to the retention period configured in the relevant provider, generally no longer than 24 months unless a shorter period is selected or longer retention is legally justified.
+
+Diagnostic and security logs under Remione’s control: normally no longer than 12 months, unless needed to investigate an active incident.
+
+Support communications: generally up to 3 years after the request is closed, unless longer retention is necessary for an ongoing dispute or legal obligation.
+
+Purchase, tax, and accounting records: for the period required by applicable law, generally at least 6 years where Cyprus record-retention rules apply.
+
+Aggregated or irreversibly anonymised information: may be retained longer because it no longer identifies an individual.
+
+Third-party providers may apply their own retention periods. We configure and manage provider retention settings where available and delete or de-identify information when it is no longer required.
+
+10. Security
+
+We use reasonable administrative, organisational, and technical measures designed to protect information. However, no electronic transmission, local-network protocol, or storage system is completely secure.
+
+Some televisions rely on unencrypted local HTTP or manufacturer-specific protocols. Users are responsible for securing their Wi-Fi network, router, television, and connected devices and should avoid controlling devices through unknown or public networks.
+
+11. User Rights
+
+Depending on applicable law, users may have the right to:
+
+access personal data;
+
+correct inaccurate or incomplete personal data;
+
+request deletion;
+
+restrict or object to processing;
+
+receive certain data in a portable format;
+
+withdraw consent;
+
+opt out of certain marketing, analytics, tracking, or targeted advertising;
+
+lodge a complaint with a competent supervisory authority.
+
+Requests may be submitted using the contact details below. We may need to verify identity. Some information exists only on the user’s device and can normally be removed by resetting or deleting the App. Apple-controlled purchase or account information must be managed through Apple.
+
+Users in the EEA may complain to the Office of the Commissioner for Personal Data Protection in Cyprus or the supervisory authority in their country of residence or work.
+
+12. United States Privacy Rights
+
+Residents of certain U.S. states may have rights to know, access, correct, delete, or obtain a copy of personal information and, where applicable, opt out of sale, sharing for cross-context behavioural advertising, targeted advertising, or certain profiling. We do not sell personal information for money and do not discriminate against users for exercising legally protected rights.
+
+13. Children’s Privacy
+
+The App is not directed to children under 13 or the minimum age required by applicable law to consent independently to data processing. We do not knowingly collect personal data directly from children without appropriate parental or guardian consent. Parents and guardians are responsible for supervising children’s use of the App and connected devices.
+
+14. Third-Party Devices and Services
+
+Television manufacturers, streaming platforms, routers, operating-system providers, and third-party television applications may independently process information under their own policies. Remione does not control their data practices.
+
+15. No Manufacturer Affiliation
+
+Unless expressly stated otherwise, Remione and the App are not affiliated with, endorsed by, sponsored by, or officially connected with Apple or any television, streaming-device, or media-platform manufacturer. Product names and trademarks belong to their respective owners and are used only to identify compatibility.
+
+16. Changes to This Policy
+
+We may update this Privacy Policy to reflect changes in the App, providers, data practices, legal requirements, or business operations. The updated version will be published through the App, App Store listing, or website with a revised effective date. Where required, we will provide additional notice or request consent before materially changing processing.
+
+Contact Us
+
+Remione LTDCompany registration number: HE 463343Republic of CyprusEmail: info@remione.ltdContact form: https://remione.ltd/#contactWebsite: https://remione.ltd/

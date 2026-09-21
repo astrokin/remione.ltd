@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "apple": {
+    "accounts": [
+      {
+        "id": "1435958551",
+        "name": "Alexey Strokin",
+        "preferredCountry": "us"
+      },
+      {
+        "id": "1768329003",
+        "name": "Remione LTD",
+        "preferredCountry": "us"
+      },
+      {
+        "id": "489255197",
+        "name": "Deep River Development Ltd",
+        "preferredCountry": "gb"
+      }
+    ],
+    "countries": [
+      "us",
+      "gb",
+      "fm",
+      "by",
+      "kz",
+      "ua",
+      "ru",
+      "uz",
+      "nl"
+    ],
+    "pending": [
+      {
+        "id": "6758022511",
+        "accountIds": [
+          "1768329003",
+          "1435958551"
+        ]
+      }
+    ]
+  },
+  "google": {
+    "accounts": [
+      {
+        "id": "7741481088943712424",
+        "name": "Aliaksei Strokin"
+      }
+    ],
+    "countries": [
+      "us",
+      "by",
+      "kz",
+      "ua",
+      "ru"
+    ]
+  },
+  "excludedStoreKeys": [
+    "apple:1540103598"
+  ],
+  "excludedSlugs": [
+    "smart-photo-cleaner"
+  ],
+  "removedRoutes": [
+    "/work/smart-photo-cleaner",
+    "/terms-cleaner",
+    "/privacy-cleaner"
+  ]
+}

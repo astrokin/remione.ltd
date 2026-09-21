@@ -1,0 +1,499 @@
+{
+  "version": 1,
+  "featuredOrder": [
+    "drawio-ai-drawing-sketches",
+    "epopit",
+    "driving-theory-test",
+    "hermes"
+  ],
+  "homeOrder": [
+    "drawio-ai-drawing-sketches",
+    "driving-theory-test",
+    "plan-post",
+    "epopit",
+    "hermes",
+    "all-tv-brands-universal-remote"
+  ],
+  "products": [
+    {
+      "key": "pdd-belarus",
+      "slug": "pdd-belarus",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:1441952587",
+        "google:by.iapps.pdd.by"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-pdd-belarus",
+          "file": "src/legal/terms-pdd-by.txt"
+        },
+        "privacy": {
+          "url": "/privacy-pdd-belarus",
+          "file": "src/legal/privacy-pdd-by.txt"
+        }
+      }
+    },
+    {
+      "key": "pdd-ukraine",
+      "slug": "pdd-ukraine",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:1547181110",
+        "google:by.iapps.pdd.ukr"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-pdd-ukraine",
+          "file": "src/legal/terms-pdd-ua.txt"
+        },
+        "privacy": {
+          "url": "/privacy-pdd-ukraine",
+          "file": "src/legal/privacy-pdd-ua.txt"
+        }
+      }
+    },
+    {
+      "key": "pdd-kazakhstan",
+      "slug": "pdd-kazakhstan",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:1547181341",
+        "google:by.iapps.pdd.kz"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-pdd-kazakhstan",
+          "file": "src/legal/terms-pdd-kz.txt"
+        },
+        "privacy": {
+          "url": "/privacy-pdd-kazakhstan",
+          "file": "src/legal/privacy-pdd-kz.txt"
+        }
+      }
+    },
+    {
+      "key": "pdd-russia",
+      "slug": "pdd-russia",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:1547179544",
+        "google:by.iapps.pdd.ru"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-pdd-russia",
+          "file": "src/legal/terms-pdd-ru.txt"
+        },
+        "privacy": {
+          "url": "/privacy-pdd-russia",
+          "file": "src/legal/privacy-pdd-ru.txt"
+        }
+      }
+    },
+    {
+      "key": "hermes",
+      "slug": "hermes",
+      "category": "Education",
+      "stores": [
+        "apple:6447547239"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-hermes",
+          "file": "src/legal/terms-hermes.txt"
+        },
+        "privacy": {
+          "url": "/privacy-hermes",
+          "file": "src/legal/privacy-hermes.txt"
+        }
+      }
+    },
+    {
+      "key": "drawio-ai-drawing-sketches",
+      "slug": "drawio-ai-drawing-sketches",
+      "category": "Creativity",
+      "stores": [
+        "apple:6476892184"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-drawio",
+          "file": "src/legal/terms-drawio.txt"
+        },
+        "privacy": {
+          "url": "/privacy-drawio",
+          "file": "src/legal/privacy-drawio.txt"
+        }
+      }
+    },
+    {
+      "key": "plan-post",
+      "slug": "plan-post",
+      "category": "Productivity",
+      "stores": [
+        "apple:6451217515"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-planner",
+          "file": "src/legal/terms-planner.txt"
+        },
+        "privacy": {
+          "url": "/privacy-planner",
+          "file": "src/legal/privacy-planner.txt"
+        }
+      }
+    },
+    {
+      "key": "pdd-uzbekistan",
+      "slug": "pdd-uzbekistan",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:6759932931"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-pdd-uzbekistan",
+          "file": "src/legal/terms-pdd-uz.txt"
+        },
+        "privacy": {
+          "url": "/privacy-pdd-uzbekistan",
+          "file": "src/legal/privacy-pdd-uz.txt"
+        }
+      }
+    },
+    {
+      "key": "epopit",
+      "slug": "epopit",
+      "category": "Entertainment",
+      "stores": [
+        "apple:6682698540"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-epopit",
+          "file": "src/legal/terms-epopit.html"
+        },
+        "privacy": {
+          "url": "/privacy-epopit",
+          "file": "src/legal/privacy-epopit.html"
+        }
+      }
+    },
+    {
+      "key": "driving-theory-test",
+      "slug": "driving-theory-test",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:490447524"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-driving-theory-test",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-driving-theory-test",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "hazard-perception-test",
+      "slug": "hazard-perception-test",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:535111579"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-hazard-perception-test",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-hazard-perception-test",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "motorcycle-theory-test",
+      "slug": "motorcycle-theory-test",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:490440404"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-motorcycle-theory-test",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-motorcycle-theory-test",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "hgv-theory-test",
+      "slug": "hgv-theory-test",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:490449948"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-hgv-theory-test",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-hgv-theory-test",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "highway-code",
+      "slug": "highway-code",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:1230353316"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-highway-code",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-highway-code",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "driving-theory-test-uk",
+      "slug": "driving-theory-test-uk",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:596040849"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-driving-theory-test-uk",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-driving-theory-test-uk",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "driving-theory-test-mac",
+      "slug": "driving-theory-test-mac",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:496304542"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-driving-theory-test-mac",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-driving-theory-test-mac",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "pcv-theory-test",
+      "slug": "pcv-theory-test",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:490449932"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-pcv-theory-test",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-pcv-theory-test",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "hazard-perception",
+      "slug": "hazard-perception",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:535111438"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-hazard-perception",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-hazard-perception",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "adi-theory-test",
+      "slug": "adi-theory-test",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:595149765"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-adi-theory-test",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-adi-theory-test",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "motorcycle-theory-test-mac",
+      "slug": "motorcycle-theory-test-mac",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:496315980"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-motorcycle-theory-test-mac",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-motorcycle-theory-test-mac",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "forklift-theory",
+      "slug": "forklift-theory",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:6504173725"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-forklift-theory",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-forklift-theory",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "hgv-theory-test-mac",
+      "slug": "hgv-theory-test-mac",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:496294927"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-hgv-theory-test-mac",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-hgv-theory-test-mac",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "cbr-theorie-examen",
+      "slug": "cbr-theorie-examen",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:1317140584"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-cbr-theorie-examen",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-cbr-theorie-examen",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "pcv-theory-test-mac",
+      "slug": "pcv-theory-test-mac",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:496331246"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-pcv-theory-test-mac",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-pcv-theory-test-mac",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "dutch-caribbean-theory-test",
+      "slug": "dutch-caribbean-theory-test",
+      "category": "Driving & Tests",
+      "stores": [
+        "apple:1011522349"
+      ],
+      "legal": {
+        "terms": {
+          "url": "/terms-dutch-caribbean-theory-test",
+          "file": "src/legal/terms-deep-river.html"
+        },
+        "privacy": {
+          "url": "/privacy-dutch-caribbean-theory-test",
+          "file": "src/legal/privacy-deep-river.html"
+        }
+      }
+    },
+    {
+      "key": "all-tv-brands-universal-remote",
+      "slug": "all-tv-brands-universal-remote",
+      "category": "Utilities",
+      "stores": [
+        "apple:6758022511"
+      ],
+      "comingSoon": {
+        "name": "All TV Brands Universal Remote",
+        "description": "Control compatible Smart TVs and media devices from your iPhone or iPad over the same local network.",
+        "platforms": [
+          "iOS"
+        ],
+        "icon": "/assets/remote-icon.svg"
+      },
+      "legal": {
+        "terms": {
+          "url": "/terms-tv-remote",
+          "file": "src/legal/terms-tv-remote.txt"
+        },
+        "privacy": {
+          "url": "/privacy-tv-remote",
+          "file": "src/legal/privacy-tv-remote.txt"
+        }
+      }
+    }
+  ]
+}

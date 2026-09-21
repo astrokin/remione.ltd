@@ -1,0 +1,1503 @@
+{
+  "version": 1,
+  "status": "complete",
+  "syncId": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475",
+  "completedAt": "2026-09-21T15:22:51.375Z",
+  "coverage": [
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "us",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "us",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "us",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "gb",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "gb",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "gb",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "fm",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "fm",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "fm",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "by",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "by",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "by",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "kz",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "kz",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "kz",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "ua",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "ua",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "ua",
+      "count": 15
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "ru",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "ru",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "ru",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "uz",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "uz",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "uz",
+      "count": 16
+    },
+    {
+      "store": "apple",
+      "accountId": "1435958551",
+      "country": "nl",
+      "count": 8
+    },
+    {
+      "store": "apple",
+      "accountId": "1768329003",
+      "country": "nl",
+      "count": 1
+    },
+    {
+      "store": "apple",
+      "accountId": "489255197",
+      "country": "nl",
+      "count": 16
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "us",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "by",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "kz",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "ua",
+      "count": 4
+    },
+    {
+      "store": "google",
+      "accountId": "7741481088943712424",
+      "country": "ru",
+      "count": 4
+    }
+  ],
+  "listings": {
+    "apple:1441952587": {
+      "key": "apple:1441952587",
+      "store": "apple",
+      "id": "1441952587",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "ПДД Беларусь Тесты Билеты 2026",
+      "description": "Тесты ПДД 2026 помогают системно подготовиться к теоретическому экзамену в Беларуси. В приложении собраны актуальные правила дорожного движения, дорожные знаки и большая база заданий. Вопросы повторяют официальные экзаменационные вопросы и расширены дополнительными заданиями для более глубокой подготовки.\n\nИИ-АССИСТЕНТ\n\nНе просто запоминайте правильный ответ — разберитесь в логике правил. Задавайте ИИ-ассистенту уточняющие вопросы, просите объяснить сложную дорожную ситуацию пошагово или привести дополнительный пример. Помощник учитывает контекст текущего вопроса и помогает понять причину ошибки.\n\nДЕТАЛЬНАЯ СТАТИСТИКА И АНАЛИТИКА\n\nСледите за прогрессом по каждому вопросу и каждой теме. Приложение показывает правильные и ошибочные ответы, повторные ошибки, проблемные вопросы, сильные и слабые темы, а также оценивает готовность к экзамену. Фильтры помогают быстро найти то, что стоит повторить.\n\nРЕЖИМ ЭКЗАМЕНА\n\nПроверьте знания в условиях, приближенных к настоящему экзамену. Настройте таймер и допустимое количество ошибок, включите ответы без подсказок и запрет возврата к предыдущим вопросам. Результаты каждой попытки сохраняются в истории.\n\nЕЩЁ В ПРИЛОЖЕНИИ\n\n• Режимы обучения, практики и работы над ошибками\n• Объяснения к вопросам со ссылками на разделы ПДД\n• Вопросы и иллюстрации для всех категорий водительских удостоверений\n• Актуальные ПДД, дорожные знаки, штрафы и официальная справочная информация\n• Закладки для вопросов, правил, знаков и штрафов\n• Основные материалы и тесты доступны без интернета; для ИИ-ассистента требуется подключение\n\nPREMIUM\n\nPremium открывает полный доступ ко всем темам и категориям, неограниченным тестам и экзаменационным попыткам, детальной аналитике и общению с ИИ-ассистентом без дневного лимита.\n\nДоступные варианты подписки:\n\n• Неделя\n• Месяц\n• 3 месяца\n\nОтветы ИИ могут содержать неточности. Проверяйте важную информацию по актуальным ПДД и официальным источникам.\n\nУсловия использования: https://iapps.by/legal/by/terms/\nКонфиденциальность: https://iapps.by/legal/by/privacy/",
+      "icon": "/store-assets/2df41bee07b8af13f5be699a4890caa9a00e1c45cc23186c5b1b9dfead7bd108.jpg",
+      "screenshots": [
+        "/store-assets/5bdbc08563d7d871846c99507477d250331269b6a91f5624110f1f8f588bf3f2.jpg",
+        "/store-assets/80ed3e6602058a065cf8cac80fea651a0dee1fac01e36b1f97f2361ba060c6de.jpg",
+        "/store-assets/99571256169b8e9e10318f2e36d8651b054c99ba7553b00f5a98ae30db87305b.jpg",
+        "/store-assets/31f1d6963db2169756a1c66df7bd9167ea156b2a55959278a771d4b396355e23.jpg",
+        "/store-assets/c1e4483100f2bb3a23cade17a885038a68344efd806db6fcbdd8e6dd1c90e030.jpg",
+        "/store-assets/ad0bb339830a0698050ec0e0cdcc2ad2e3647720d47bdf98984f237267a4d926.jpg",
+        "/store-assets/b5f2a3bef1d91975b5936bc007f06afa7e63390fc4c5d6981cfc3290a5adb49c.jpg",
+        "/store-assets/2e2eba48be689ae322b0eef6732db4953588d880d3f9f3dc18026247218a1cdd.jpg",
+        "/store-assets/1ab0915f805ea8ae531be592066381b99ee66f71efc8a6b9630bb85267bc34bd.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/us/app/%D0%BF%D0%B4%D0%B4-%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-%D1%82%D0%B5%D1%81%D1%82%D1%8B-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-2026/id1441952587?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "by.iapps.ios.pdd",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:1547181341": {
+      "key": "apple:1547181341",
+      "store": "apple",
+      "id": "1547181341",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "ПДД Тест Казахстан PDD TEST KZ",
+      "description": "ЖҚЕ тесттері 2026 Қазақстандағы теориялық емтиханға жүйелі дайындалуға көмектеседі. Қолданбада өзекті жол қозғалысы ережелері, жол белгілері және үлкен тапсырмалар базасы жинақталған. Сұрақтар ресми емтихан сұрақтарын қайталайды және тереңірек дайындалуға арналған қосымша тапсырмалармен толықтырылған.\n\nЖИ-КӨМЕКШІ\n\nДұрыс жауапты жаттап қана қоймай, ереженің логикасын түсініңіз. ЖИ-көмекшіге нақтылау сұрақтарын қойыңыз, күрделі жол жағдайын қадамдап түсіндіруді немесе қосымша мысал келтіруді сұраңыз. Көмекші ағымдағы сұрақтың контексін ескеріп, қатенің себебін түсінуге көмектеседі.\n\nЕГЖЕЙ-ТЕГЖЕЙЛІ СТАТИСТИКА ЖӘНЕ ТАЛДАУ\n\nӘр сұрақ пен тақырып бойынша ілгерілеуді бақылаңыз. Қолданба дұрыс және қате жауаптарды, қайталанған қателерді, қиын сұрақтарды, күшті және әлсіз тақырыптарды көрсетіп, емтиханға дайындық деңгейін бағалайды. Сүзгілер қай материалды қайталау керегін тез табуға көмектеседі.\n\nЕМТИХАН РЕЖИМІ\n\nБіліміңізді нақты емтиханға барынша жақын жағдайда тексеріңіз. Таймер мен рұқсат етілетін қателер санын реттеңіз, көмексіз жауап беруді және алдыңғы сұрақтарға оралуға тыйым салуды қосыңыз. Әр әрекеттің нәтижесі тарихта сақталады.\n\nҚОСЫМША МҮМКІНДІКТЕР\n\n• Оқу, жаттығу және қателермен жұмыс режимдері\n• ЖҚЕ бөлімдеріне сілтемелері бар сұрақ түсіндірмелері\n• Жүргізуші куәлігінің барлық санаттарына арналған сұрақтар мен иллюстрациялар\n• Өзекті ЖҚЕ, жол белгілері, айыппұлдар және ресми анықтамалық ақпарат\n• Сұрақтарды, ережелерді, белгілер мен айыппұлдарды бетбелгіге сақтау\n• Негізгі материалдар мен тесттер интернетсіз қолжетімді; ЖИ-көмекшіге интернет қажет\n\nPREMIUM\n\nPremium барлық тақырыптар мен санаттарға, шексіз тесттер мен емтихан әрекеттеріне, егжей-тегжейлі талдауға және ЖИ-көмекшімен күндік шектеусіз сөйлесуге толық қолжетімділік береді.\n\nҚолжетімді жазылым нұсқалары:\n\n• Апта\n• Ай\n• 3 ай\n\nЖИ жауаптарында қателер болуы мүмкін. Маңызды ақпаратты қолданыстағы ЖҚЕ және ресми дереккөздер арқылы тексеріңіз.\n\nПайдалану шарттары: https://iapps.by/legal/kz/terms/\nҚұпиялылық: https://iapps.by/legal/kz/privacy/",
+      "icon": "/store-assets/7d6b8e3768df8086a5f5070d3a51349e4a53ea53cfd4ac631c7abfd153a441cb.jpg",
+      "screenshots": [
+        "/store-assets/13f9e85f957136f3968afd76d74c67f2c9a62039d640ac078c7bda945d6e8602.jpg",
+        "/store-assets/720a61dcad71104178a3922c775877fc72e2e2ba43e494d56dbb733af99b55c6.jpg",
+        "/store-assets/2e828944770670e4a55f9618bec834f7a6382659332025702059099b708cffa8.jpg",
+        "/store-assets/09be9c83733fd768261f35671ec1bf05a887a90cff22fd613185f3eb2a299083.jpg",
+        "/store-assets/c29fdc22c36b74e3fdac48180300f14d69c7198641ad68ff7ca9ef9f014cc712.jpg",
+        "/store-assets/67d6884c08164eb146dd04cd1f4b715a80900994cd36b8f7722d1cbbacefe5f8.jpg",
+        "/store-assets/4509ada3de23da38d52e7ed56d046e1c40c259d8b25cf6df33c0d00a0a10d2f5.jpg",
+        "/store-assets/7a7ca5deb1449fb0952799b42ee158c0311dba696d0afa4a439dbb1ed739419d.jpg",
+        "/store-assets/61e150c9ab9f66db3fd3435d4d1377bdb2bb0340861e705b054b2e54b669e3e2.jpg",
+        "/store-assets/8fd0f94c98aebf8b71d3cbf86fb7fd38bb30cfc2e334d1f0130e9fd58b33100e.jpg",
+        "/store-assets/60a053079b733311890771573664e0a30ec605c74902ef7ece4ac71f37ff4af9.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/us/app/%D0%BF%D0%B4%D0%B4-%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-pdd-test-kz/id1547181341?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "kz.iapps.ios.pdd",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:6447547239": {
+      "key": "apple:6447547239",
+      "store": "apple",
+      "id": "6447547239",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "World History AI Tutor Chat",
+      "description": "Discover History: Chat with Icons of the Past\n\nStep into the pages of history and converse with the legends who shaped our world. This app offers a unique way to dive deep into the past, learning directly from historical figures across science, art, and culture. Engage with key thinkers and visionaries through lifelike conversations, all tailored to inspire and educate.\n\nKey Features:\n• Explore Legendary Figures: Connect with renowned personalities from various historical eras and fields.\n• Effortless Conversations: Start engaging dialogues with just a tap.\n• Unlimited Chats & Faster Responses (Premium): Unlock seamless access to more insightful discussions.\n• Personalized Experience (Premium): Customize conversations to suit your interests and preferences.\n• Ad-Free Time Travel (Premium): Dive into history without distractions.\n\nWhether you’re captivated by ancient civilizations, the Renaissance’s revolutionary spirit, or the modern era’s innovators, this app curates figures and moments from across time to fit your unique interests.\n\nGet started by answering a few questions, and the app will craft a custom experience just for you, making each conversation both enriching and memorable.\n\nStart your free trial today and embark on a journey through time!\n\nPrivacy Policy: https://remione.ltd/privacy-hermes\nTerms Of Use: https://remione.ltd/terms-hermes",
+      "icon": "/store-assets/8b586305d077a29784f40788a89c83ad50987d55c9c19e62a91c121a78b365f4.jpg",
+      "screenshots": [
+        "/store-assets/f2ffdd48202d32d2dc37e87156671d2e35b9ed1657629e286e851937891c166e.jpg",
+        "/store-assets/3dbcbd0966f3089f0075d982d83ca366be65cc5575e146911bc5c7db450e6236.jpg",
+        "/store-assets/376a6c8739d39519e2b373ef4d2a9dab02940ae86502ede8010e49b99cde6690.jpg",
+        "/store-assets/2a104604fb75751f4fa5d2021800a24a818a4777670d92226829ec5a9c0bdd8d.jpg",
+        "/store-assets/5e096ee0348e64cf2e73673b7c838adf4686780099ddada5c1e60fa33d3834e8.jpg",
+        "/store-assets/feb001f86d7c83d9bb34985676ef9012b96af2c243fc64ff0b1b5e0c6dfd87f2.png",
+        "/store-assets/8f7cfd7620f88b1c7fd16090579784f0d8f611b387c85cb01b153f51b2c4ba0e.png"
+      ],
+      "platforms": [
+        "iOS"
+      ],
+      "categories": [
+        "Education",
+        "Entertainment"
+      ],
+      "url": "https://apps.apple.com/us/app/world-history-ai-tutor-chat/id6447547239?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "com.history.talk.chat",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:6476892184": {
+      "key": "apple:6476892184",
+      "store": "apple",
+      "id": "6476892184",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "Drawio sketch AI easy draw art",
+      "description": "Drawio: AI Drawing & Sketches is a groundbreaking iOS app designed for artists of all levels, from beginners to professionals. Utilizing the power of AI, Drawio provides a comprehensive suite of tools that make drawing and sketching easier and more enjoyable. Immerse yourself in a world of creativity with features that bring your artistic visions to life.\n\nFeatures\n\nAI-Powered Drawing Assistance\n\n\t•\tIntelligent Suggestions: Boost your creativity with AI-driven suggestions and auto-completions, streamlining your drawing process.\n\t•\tAuto-Enhance: Elevate your hand-drawn sketches with AI enhancements for a polished and professional look.\n\nTrace and Enhance\n\n\t•\tImage Import: Easily import images to trace and refine your sketches, perfect for mastering proportions and details.\n\nAnime and Game Art\n\n\t•\tSpecialized Tools: Create stunning anime characters and intricate game artwork with tailored brushes and templates.\n\t•\tCharacter Sheets & Scene Settings: Utilize built-in templates for detailed character design and immersive scene creation.\n\nCreative Image Generation\n\n\t•\tKeyword-Based Art: Generate unique images based on keywords or phrases with the integrated AI image generator, ideal for brainstorming and concept art.\n\nSketchUp Support\n\n\t•\t3D Model Integration: Import and work with SketchUp files to seamlessly incorporate 3D models into your 2D sketches.\n\nAdvanced Coloring Tools\n\n\t•\tCustomizable Palettes: Explore a wide range of coloring tools, including gradients and texture brushes, to add depth and vibrancy to your artwork.\n\t•\tDynamic Effects: Experiment with watercolor, oil paint, and other dynamic effects to bring your sketches to life.\n\nCartoon and Creative Filters\n\n\t•\tArtistic Transformations: Apply various artistic filters to transform your sketches into different styles such as cartoons, watercolors, or oil paintings.\n\nUser-Friendly Interface\n\n\t•\tCustomizable Workspace: Tailor your digital workspace with customizable toolbars and layouts to suit your workflow.\n\t•\tDark Mode: Enjoy comfortable drawing sessions with an optional dark mode.\n\nDrawio: AI Drawing & Sketches combines cutting-edge AI technology with robust artistic tools, offering an unparalleled digital drawing experience. Unlock your creativity and start your artistic journey with Drawio today!\n\nPrivacy Policy: https://remione.ltd/privacy-drawio\nTerms Of Use: https://remione.ltd/terms-drawio",
+      "icon": "/store-assets/e0a4d6387ca6e4a2a80bef6a0a46b9bf41e810a62c396aee752c6e9cda411157.jpg",
+      "screenshots": [
+        "/store-assets/089581b126782a17378c8991c854bff081580c7ed12360c99610f83d930b75b3.png",
+        "/store-assets/d7801fe9b987974667a3d0ef6ab905efdea69fc071a385e263be4488c525adab.png",
+        "/store-assets/d0e138de43d8a595c518f1b5e49557becdc84f7141c110d0aebcc8ee167b189d.png",
+        "/store-assets/ec4a253a910af9e884efc80a979eb7cf352b5d50c171f6e2356d7ed338ab1cb9.png",
+        "/store-assets/38897a683579d48389e4137ffeb328c2ca52d29e15469acfefc60f70b746cd3e.png",
+        "/store-assets/83bd726f053be19d38a550ccabb95d2fd801e6b0f2eb926c25cb2b96efe93182.png",
+        "/store-assets/61eccc7cd0fbac3e1f8637043cbd606c7200dfd9860e2bd1189b78c71fc25425.png",
+        "/store-assets/72dda6301ce0db55653d069b7c2b75fff21da1dce165d8be38bf0076f2603703.png"
+      ],
+      "platforms": [
+        "iOS"
+      ],
+      "categories": [
+        "Graphics & Design",
+        "Photo & Video"
+      ],
+      "url": "https://apps.apple.com/us/app/drawio-sketch-ai-easy-draw-art/id6476892184?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "draw.io",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:1547181110": {
+      "key": "apple:1547181110",
+      "store": "apple",
+      "id": "1547181110",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "Тести ПДР 2025 2026 Правила UA",
+      "description": "Traffic Rules Tests 2026 gives you everything you need to prepare for the theory exam at a Ukrainian MIA service centre. Study the latest Ukrainian traffic rules, road signs, the complete set of official exam questions, and an expanded collection of additional practice questions.\n\nAI STUDY ASSISTANT\n\nGo beyond memorising the correct answer and understand why it is right. Ask follow-up questions, request a step-by-step explanation of a difficult road situation, or ask for another example. The assistant uses the context of the current question to help you understand your mistakes.\n\nDETAILED STATISTICS AND INSIGHTS\n\nTrack progress for every question and topic. See correct answers, mistakes, repeated errors, difficult questions, strong and weak topics, and an estimate of your exam readiness. Smart filters help you return directly to the material that needs more work.\n\nEXAM MODE\n\nTake tests in the format used at MIA service centres: Exam Mode uses official exam questions only. Strict settings include a timer, answers without hints and no return to previous questions. Every attempt is saved in your history.\n\nMORE FEATURES\n\n• Over 2,000 official exam questions and over 2,000 additional practice questions\n• Learning, practice and mistake-review modes\n• Explanations with references to the relevant traffic rules\n• Support for all driving licence categories\n• Current traffic rules, road signs, fines and official reference information\n• Bookmarks for questions, rules, signs and fines\n• Core materials and tests are available offline; the AI assistant requires an internet connection\n\nPREMIUM\n\nPremium unlocks every topic and category, unlimited tests and exam attempts, detailed analytics, and conversations with the AI assistant without a daily limit.\n\nAvailable subscription options:\n\n• Weekly\n• Monthly\n• 3 months\n\nAI-generated answers may be inaccurate. Verify important information against the current traffic rules and official sources.\n\nTerms of Use: https://iapps.by/legal/ua/terms/\nPrivacy Policy: https://iapps.by/legal/ua/privacy/",
+      "icon": "/store-assets/762d7a18784c7d59b69ba2af39d53b1366bfb44470ec8dfd099e173ce53b4089.jpg",
+      "screenshots": [
+        "/store-assets/e3ee924d1c4f1b52bb9f6e19333d7ae66128b159e6ffea85129a851c6d64c7ed.jpg",
+        "/store-assets/adc890ab4ae2ad2a127ad0509335de537200002ab6504f1a0652a5588e588604.jpg",
+        "/store-assets/a0222dfd3f5a3bb8a9d54f5347328552ad184e008ce0e0c07f28e61406b612d7.jpg",
+        "/store-assets/3e0d62c1a124778f7d6706ae50686d01e61d2a92f2cb3497ac95007a87c61ad6.jpg",
+        "/store-assets/258c6516d8d72d08ddbc1b839467f093fd661e51544255de9a50f5f65e257e96.jpg",
+        "/store-assets/21dbea83be7a8c600de6de39563b04f7b155ab062d2dfce0b1917c91d8af7063.jpg",
+        "/store-assets/1b0b88e161201e68a2499057600973b56bf4b64736229646223d195837beb8f8.jpg",
+        "/store-assets/de8f839cb0f0974d3c33f7bd351a14f8810261c1cfd0075f2debadd552e6a2c3.jpg",
+        "/store-assets/1b14bf7ae50969d88f3647755cef5c80563537a18d31625fd778767d4b2ef0d4.jpg",
+        "/store-assets/60d23998573656711df2ceb7cff70b2fe6dddbffd229da4afa3190dc62e5b985.jpg",
+        "/store-assets/380b62400319ccbf6959b400dc180205f2eb726fee0e1cf934192d44616f2d9f.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/us/app/%D1%82%D0%B5%D1%81%D1%82%D0%B8-%D0%BF%D0%B4%D1%80-2025-2026-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-ua/id1547181110?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.iapps.ios.pdd",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:6451217515": {
+      "key": "apple:6451217515",
+      "store": "apple",
+      "id": "6451217515",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "Creators app for social share",
+      "description": "Plan Post is your ultimate tool for mastering social media engagement.\n\nDesigned for influencers, marketers, and content creators, this app empowers you to streamline your social media strategy with efficient scheduling and organized content planning.\n\nPlan Post features a dynamic calendar for precise scheduling and AI-driven content generation that crafts personalized plans and posts. Stay motivated with regular reminders and motivational tools that encourage consistent posting.\n\nOur analytics provide insightful feedback on post performance, enabling you to optimize your strategy for maximum impact. With Plan Post, not only can you maintain regular engagement, but you can also strategically grow your audience.\n\nTake your social media presence to the next level with our Premium subscription. Unlock the power to generate unlimited posts and access additional premium features, designed to help you achieve digital excellence. The Premium subscription is your ultimate partner in content mastery, providing everything you need to elevate your social media game.\n\nPremium Subscription Options\n\n\t•\tYearly Subscription with Trial: 1 year with an initial trial period.\n\t•\tYearly Subscription without Trial: 1 year of full access without a trial.\n\t•\tMonthly Subscription with Trial: 1 month with an initial trial period.\n\t•\tMonthly Subscription without Trial: 1 month of full access without a trial.\n\t•\tWeekly Subscription with Trial: 1 week with an initial trial period.\n\t•\tWeekly Subscription without Trial: 1 week of full access without a trial.\n\nFor any questions or assistance, please don't hesitate to contact us at: support.team@hermeschat.app\n\nPlan Post Privacy Policy: https://am2.app/terms-privacy/post-planner-privacy-policy\nPlan Post Terms & Conditions: https://am2.app/terms-privacy/post-planner-terms-conditions",
+      "icon": "/store-assets/7f006cbcbf139aeb6c89b21dba29c6af11340012434d2d22140c261fc54b78a6.jpg",
+      "screenshots": [
+        "/store-assets/5c013ccf83dbb1a2d50e766fe1b841a907a2b059829a06d688c8b6f27cd64836.jpg",
+        "/store-assets/3764f35d4ab771cd5818057bbc16196df74c3673c636789d6ed7890b19402670.jpg",
+        "/store-assets/08bb26241aa2aea5d1caf670eb2022d7ba800daded337f820eb83bfbaabfc22a.jpg",
+        "/store-assets/e9159bf087e514daffb9d68d535b381b9a41d608e8ce2e3dcc9cf7d507efd12d.jpg",
+        "/store-assets/1d12e4dafcf79b8fb845a2eafba59d3f44d22d1cf069a8d63544ef440b7536a6.jpg",
+        "/store-assets/485c2937aa0d6406bf2976df490ba87edaded3915ad1ab3f8f8f1ebf446a4467.jpg"
+      ],
+      "platforms": [
+        "iOS"
+      ],
+      "categories": [
+        "Productivity",
+        "Social Networking"
+      ],
+      "url": "https://apps.apple.com/us/app/creators-app-for-social-share/id6451217515?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "com.threads.ai.generator",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:1547179544": {
+      "key": "apple:1547179544",
+      "store": "apple",
+      "id": "1547179544",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "Учи ПДД автошкола билеты 2026",
+      "description": "PDD Tests 2026 gives you everything you need to prepare for the Russian traffic police theory exam. Study the latest Russian traffic rules, road signs and the complete set of official 2026 exam questions. Build your knowledge step by step and prepare to pass on your first attempt.\n\nAI STUDY ASSISTANT\n\nGo beyond memorising the correct answer and understand why it is right. Ask follow-up questions, request a step-by-step explanation of a difficult road situation, or ask for another example. The assistant uses the context of the current question to help you understand your mistakes.\n\nDETAILED STATISTICS AND INSIGHTS\n\nTrack progress for every official question and topic. See correct answers, mistakes, repeated errors, difficult questions, strong and weak topics, and an estimate of your exam readiness. Smart filters help you return directly to the material that needs more work.\n\nEXAM MODE\n\nTest yourself in conditions that closely match the traffic police exam. Strict mode includes a timer, answers without hints and no return to previous questions. Every attempt is saved in your history so you can see how your results improve.\n\nMORE FEATURES\n\n• Learning, practice and mistake-review modes\n• Explanations with references to the relevant traffic rules\n• Official questions and illustrations for all driving licence categories\n• Current traffic rules, road signs, fines and official reference information\n• Bookmarks for questions, rules, signs and fines\n• Core materials and tests are available offline; the AI assistant requires an internet connection\n\nPREMIUM\n\nPremium unlocks every topic and category, unlimited tests and exam attempts, detailed analytics, and conversations with the AI assistant without a daily limit.\n\nAvailable subscription options:\n\n• Weekly\n• Monthly\n• 3 months\n\nAI-generated answers may be inaccurate. Verify important information against the current traffic rules and official sources.\n\nTerms of Use: https://iapps.by/legal/ru/terms/\nPrivacy Policy: https://iapps.by/legal/ru/privacy/",
+      "icon": "/store-assets/cf4dcbcf7c986029bfbcaa1c3f1321173dd301f631f672bc72d325a4dd2696de.jpg",
+      "screenshots": [
+        "/store-assets/9597b3af529f53a1266340a03d2de614fc8e6376e32c359b9dba0beaddf4cc49.jpg",
+        "/store-assets/7566a5ff554b21c50e82050ab5a754a64f857816b1d43e30e9aefb6df8805d0c.jpg",
+        "/store-assets/e3bf62758274915770a6ab9fb679eff5c1925a754e59d8f01f4f58d8e28403d1.jpg",
+        "/store-assets/656e83e1ab4e9925b18818dbbca7fa34b87e40ed8305e0180a9a5abbec54d4fb.jpg",
+        "/store-assets/d4a57d0b88fe305976e7dff77ca26d3a7490e71eade8313669b02600a2ac284e.jpg",
+        "/store-assets/47409683e3cb3302578184febaa140da6751bf865b888c1862583ee3850a7be4.jpg",
+        "/store-assets/fadcddf3d8b8cec2b6a7096ae311ca5126950bd9fd2cbd0262c241eb876691fc.jpg",
+        "/store-assets/5b8a434c74e26607df3b72a52a7b236cae6462dbfc55005bab13b779232b2b3a.jpg",
+        "/store-assets/508a40d20716b01e01b288b3d6956af2801299e9bae73cc1ae0231f01b2db333.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/us/app/%D1%83%D1%87%D0%B8-%D0%BF%D0%B4%D0%B4-%D0%B0%D0%B2%D1%82%D0%BE%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-2026/id1547179544?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "ru.iapps.ios.pdd",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:6759932931": {
+      "key": "apple:6759932931",
+      "store": "apple",
+      "id": "6759932931",
+      "accountId": "1435958551",
+      "publisher": "Alexey Strokin",
+      "name": "ПДД Узбекистан Билеты YHQ YHXX",
+      "description": "ПДД Узбекистан: тесты 2026 — приложение для системной подготовки к теоретическому экзамену. Изучайте актуальные Правила дорожного движения Республики Узбекистан, дорожные знаки и разметку, решайте тематические задания и отслеживайте свой прогресс.\n\nБАНК ИЗ 2 000 ВОПРОСОВ\n\nВопросы отобраны и адаптированы для Узбекистана с учётом действующих ПДД. Банк охватывает основные темы подготовки: обязанности водителя, маневрирование, скорость, перекрёстки, остановку и стоянку, дорожные знаки и разметку, безопасность движения, первую помощь и другие разделы.\n\nКаждое задание доступно на русском языке, на узбекском латиницей и на узбекском кириллицей. Выбранный язык применяется к интерфейсу приложения, вопросам и тексту ПДД.\n\nИИ-ПОМОЩНИК И ОБЪЯСНЕНИЯ\n\nНе просто запоминайте правильный ответ — разберитесь в логике правила. ИИ-помощник учитывает контекст текущего вопроса, объясняет ошибки и отвечает на уточняющие вопросы. Отдельный помощник по ПДД поможет разобрать дорожную ситуацию, знак, разметку или соответствующий пункт правил.\n\nДЕТАЛЬНАЯ СТАТИСТИКА\n\nСледите за результатами по каждому вопросу и каждой теме. Приложение показывает правильные и ошибочные ответы, повторные ошибки, сложные вопросы, сильные и слабые темы, историю попыток и оценку готовности к экзамену. Удобные фильтры помогают быстро найти материал, который стоит повторить.\n\nРЕЖИМ ЭКЗАМЕНА\n\nПроверяйте знания с таймером и допустимым количеством ошибок. Строгие настройки позволяют отвечать без подсказок и запретить возврат к предыдущим вопросам. Результаты попыток сохраняются, чтобы вы видели динамику подготовки.\n\nЕЩЁ В ПРИЛОЖЕНИИ\n\n• Обучение по темам и работа над ошибками\n• Объяснения со ссылками на соответствующие разделы ПДД\n• Актуальный текст ПДД Узбекистана на трёх языковых вариантах\n• Каталог дорожных знаков, разметки и неисправностей автомобиля\n• Закладки для вопросов, правил и знаков\n• Основные материалы и тесты доступны без интернета\n• Выбор светлой, тёмной или системной темы оформления\n\nPREMIUM\n\nPremium открывает все темы, неограниченные тесты и экзаменационные попытки, расширенную аналитику и общение с ИИ-помощником без дневного лимита.\n\nВ приложении могут быть доступны недельная, месячная и трёхмесячная подписки, а также бессрочный доступ. Актуальная стоимость отображается на экране покупки до подтверждения платежа.\n\nПодписка оплачивается через Apple ID и автоматически продлевается, если её не отменить не позднее чем за 24 часа до окончания текущего периода. Управлять подпиской и отменить её можно в настройках учётной записи App Store.\n\nОтветы ИИ могут содержать неточности и не являются официальным толкованием законодательства. Проверяйте важную информацию по действующим ПДД и официальным источникам.\n\nПриложение является независимым образовательным продуктом, не представляет государственные органы Республики Узбекистан и не является государственным сервисом.\n\nУсловия использования: https://iapps.by/legal/uz/terms/\nПолитика конфиденциальности: https://iapps.by/legal/uz/privacy/",
+      "icon": "/store-assets/0584d62368a57d6882108466930ab474616f3e0331d406b8903003f5b6b1703d.jpg",
+      "screenshots": [
+        "/store-assets/7eaeada852f038e1bb5001b118e60a7c0443517b48878255d53042aaf8212f83.jpg",
+        "/store-assets/8b953666cf12c877d5b006820d9972f8d33c15e8fbd4e720b8aaac0e735c8612.jpg",
+        "/store-assets/4ca5b8eed39e4ac51441c061ae2765dfee0652bae6ab77b6b82cea76f5570bc8.jpg",
+        "/store-assets/29f9aa5d4992adfac4459fd8ae4e904232973b6a5043d710d4ac14b644d38092.jpg",
+        "/store-assets/eb18089fd033059350ee0610ce989dfe39a1f07f75a15b92640dcd0e7dcc8cb7.jpg",
+        "/store-assets/174197d958c5e8465b56834c86b0cfd5b0ca2a599ad9de3d95f8976c7709dc56.jpg",
+        "/store-assets/fa5490c886f2197ec55a1f74c6497e251a8241c562d3317f47b69c3f3fc89ed5.jpg",
+        "/store-assets/f906b23eeaf63263f2d7c89a73ef171790eadfe7345a10b1e10c61a576c3e855.jpg",
+        "/store-assets/5b2ef1a654ef6356642a7b0a25eca68712bcbc84d51b33cf64cdd486e8ac063a.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/us/app/%D0%BF%D0%B4%D0%B4-%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-yhq-yhxx/id6759932931?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uz.iapps.ios.pdd",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:6682698540": {
+      "key": "apple:6682698540",
+      "store": "apple",
+      "id": "6682698540",
+      "accountId": "1768329003",
+      "publisher": "Remione LTD",
+      "name": "Popit fidget toys 3D top style",
+      "description": "Unlock the Ultimate Pop It Experience with Electro PopIt: Your Gateway to Fun, Relaxation, and Endless Enjoyment!\n\nDive into the mesmerizing world of Electro PopIt, where the beloved Pop It toy comes to life in a captivating digital format. Whether you want to de-stress, challenge your skills, or simply enjoy some satisfying gameplay, Electro PopIt offers an experience that’s as immersive as it is enjoyable. Discover why Electro PopIt is the go-to app for fun and relaxation that you won’t want to put down.\n\n Why Electro PopIt Will Become Your New Favorite App:\n\n  Unmatched Pop It Sensation:\nExperience the joy of popping bubbles with the same tactile satisfaction of the real toy, now amplified with vibrant graphics and fluid animations. Every pop is a mini celebration!\n\n  Diverse Game Modes:\nWhether you're in the mood for calming ASMR-inspired sessions or heart-pumping challenges, Electro PopIt has a mode tailored for you. No matter your age or preference, there’s something here for everyone.\n\n  Ultimate Stress Buster:\nEscape from daily stress with soothing sounds and addictive gameplay designed to relax your mind. Electro PopIt isn’t just a game; it’s a retreat for your senses.\n\n  Fun for All Ages:\nFrom kids to adults, Electro PopIt is intuitive and endlessly engaging. It’s the perfect family-friendly app that everyone can enjoy, offering simple yet satisfying fun at your fingertips.\n\n  Ad-Free Bliss:\nOpt for the ad-free version to enjoy uninterrupted popping, making Electro PopIt one of the most enjoyable and distraction-free games available.\n\n  Play Anywhere, Anytime:\nNo internet? No worries! Electro PopIt lets you play offline, making it the perfect companion for travel, commutes, or any time you need a quick break.\n\n  Fully Customizable Experience:\nPersonalize your game with a variety of backgrounds and sound effects, crafting the perfect ambiance for your popping pleasure.\n\n Features That Keep You Coming Back:\n\n  Realistic Bubble Popping:\nFeel the perfect pop every time with our meticulously designed mechanics that replicate the tactile delight of the Pop It toy.\n\n  Stunning Visuals and Smooth Gameplay:\nEnjoy a feast for your eyes with vibrant colors and seamless animations that elevate your gaming experience.\n\n  Intuitive Controls:\nOur user-friendly interface makes it easy to jump straight into the action, ensuring that your experience is as smooth as it is fun.\n\n  Constantly Evolving:\nWe’re always adding new features, game modes, and backgrounds to keep your Electro PopIt experience fresh, exciting, and packed with surprises.\n\n Don’t Miss Out – Start Popping Now!\n\nWhy wait? Electro PopIt is more than just a game; it’s your ticket to relaxation, fun, and a world of popping satisfaction. Download Electro PopIt today and discover the joy that millions are raving about. Your next favorite app is just a tap away!\n\n\nSUBSCRIPTION INFORMATION:\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. The cost of the renewal depends on your subscription plan. Subscriptions may be managed and auto-renewal can be turned off in the user’s Account Settings. Any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.\n\n\nPrivacy Policy: https://epopit.app/privacy-policy\nTerms Of Use: https://epopit.app/terms-of-use\nsupport@epopit.app",
+      "icon": "/store-assets/c1559bc4f1556bd34d70aac1683d7b1f10bd2dc7366f92dc64cd2a8e7046418a.jpg",
+      "screenshots": [
+        "/store-assets/618ff9fd5826cf2e8c67d660020d747495b1314d2a429b57463bb91d92abdbd6.jpg",
+        "/store-assets/cd19fe58495de40ffe04e4d49ed64eef4159dfcf0365ac8f34dae84a5a23107d.jpg",
+        "/store-assets/1c519185baa6a84fa201d3db42c7eb1d88e3259d72f95d282523a2101c8d9d2f.jpg",
+        "/store-assets/99068657c1369863b29efe54f5effdc8627a20dbb7565f91a23fe135ab876c19.jpg",
+        "/store-assets/9b6f5fc8225ef5023b3f58433232b9aa2983f072e13fc833041a3c5bd9a004a9.jpg",
+        "/store-assets/cd51209607b8d029cfbdf82e2c137c3e5da6b67d3c9019c4047b47bb64165097.jpg",
+        "/store-assets/9a302d6bed4c3669dc742e7309022c289956be8840ad11ad4eaa5f85146a8c02.jpg",
+        "/store-assets/346f5a1c1936da0b46375d7e2c30cdc545df5e6ee99e26af5fd5b6a12fc0830a.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "url": "https://apps.apple.com/us/app/popit-fidget-toys-3d-top-style/id6682698540?uo=4",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "electro.popit",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:490447524": {
+      "key": "apple:490447524",
+      "store": "apple",
+      "id": "490447524",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Driving Theory Test Kit",
+      "description": "2026 READY. Free updates when the DVSA changes theory questions or hazards\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass\n\nDVSA QUESTIONS. All 700+ revision questions & explanations. No App, CD or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nCASE STUDY VIDEOS. Every car theory test now includes a video case study\n\nHIGHWAY CODE. Unlimited access to the complete highway code\n\nROAD SIGNS. Includes all UK road markings & traffic signs\n\nDRIVING LESSONS. 39 video lessons by professional instructors …\n\nWatch a mock driving test so you know what to expect\nCommon faults and how to avoid them\nSkills and manoeuvres needed to pass\nCovers junctions, roundabouts, parking, emergency stops and much more!\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia\n\nTRACK PROGRESS. See which topics need more practice\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score\n\nNO ADVERTS. Uninterrupted revision with no distractions\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions\n\nNEED HELP? Contact our UK-based support team at support@drivingtheorytest.org\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner car drivers who need to practice for the UK DVSA driving theory test in order to obtain a driving license.\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/492c5f1e75c7fb680f35a6ec0d957f9ba9f6278075c3f8cf75537472c83d7733.jpg",
+      "screenshots": [
+        "/store-assets/c617329279c708664abb58f8d6c2c45ecee53cc7f398ca7161f095feefa59044.jpg",
+        "/store-assets/89e8b65f428e1d12d465c425a7e539781cfdbc0cede4735331236c161f8f9a9f.png",
+        "/store-assets/2e075f483895f36c9b216128161e2e183eea0cdf6eda5c8f77771c51d0efaecf.png",
+        "/store-assets/49fd8bc4de1ab4f389a0b10c807d5783115f9c041aaa9c85df5000f9d5b5cec9.png",
+        "/store-assets/501e3ef80cb0cbd3009688e726c498cc2765a778214bb5c7de3a156a8fb3e5a5.png",
+        "/store-assets/fbe207e16543befbfd8512fe0acc173507dfd9883cf2f667b034b3e57b49b96f.png",
+        "/store-assets/e8c5d839b91acdb804d420cf50f7f3bf87deea73b46d5c1556c722a4bdac094e.png",
+        "/store-assets/10ddff67843eed07dc225cae529035f69c3c000a2f59a71f14cde959ca0d914d.jpg",
+        "/store-assets/e14b6e209c7eb0ab62eb030afd4c3da37bd321b9ecfd9b34609fc4e27bba0b39.png",
+        "/store-assets/0e8b2c0489a1fae3512f82f830fa600708814e36cb2e992d146e285f1db63407.png",
+        "/store-assets/464f51b9a81b62a17d6673e82224915b4692b235b1f7675dabba7dfb6a6ca1dc.png",
+        "/store-assets/c91ff3a4733e2a0ae3b7bdc8de073dd69ee5841f75f1aa9c0cce5915a939d3bd.png",
+        "/store-assets/7e56d8d16421f8af31138c3041ac05532ecdc9c8d61716fe289c3bd4733dfb85.png",
+        "/store-assets/2e7dacc16143bfda577239f530bf0307f7e2eabf7cb2f5dbe2e86c8333586474.png",
+        "/store-assets/b5ef7c8b199745f36685b36841cb4e16cc6ce5b27b32a48b8a493e9fabf9d07e.png"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/driving-theory-test-kit/id490447524?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.carTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:496304542": {
+      "key": "apple:496304542",
+      "store": "apple",
+      "id": "496304542",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Driving Theory Test Kit Pro",
+      "description": "2026 READY. Free updates when the DVSA changes theory questions or hazards\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass\n\nDVSA QUESTIONS. All 700+ revision questions & explanations. No App, CD or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nCASE STUDY VIDEOS. Every car theory test now includes a video case study\n\nHIGHWAY CODE. Unlimited access to the complete highway code\n\nROAD SIGNS. Includes all UK road markings & traffic signs\n\nDRIVING LESSONS. 39 video lessons by professional instructors …\n\nWatch a mock driving test so you know what to expect\nCommon faults and how to avoid them\nSkills and manoeuvres needed to pass\nCovers junctions, roundabouts, parking, emergency stops and much more!\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia\n\nTRACK PROGRESS. See which topics need more practice\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score\n\nNO ADVERTS. Uninterrupted revision with no distractions\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions\n\nNEED HELP? Contact our UK-based support team at support@drivingtheorytest.org\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner car drivers who need to practice for the UK DVSA driving theory test in order to obtain a driving license.\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/6f309048147a9ff31758c740955d445d75082ad0ba738d12de62df51ffdedb81.png",
+      "screenshots": [
+        "/store-assets/43551e8afd49278579c5cf29e5bcfecc7873f843d7a64a19148c11c9d7777f18.jpg",
+        "/store-assets/06383101bb03bee14237b504135fae20b894219371be272881e24a35d4052d76.jpg",
+        "/store-assets/7f89f23b6a95d9a50383b86aabfa1c8aa744e08c15827f08006c708dd9ea80d2.jpg"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/driving-theory-test-kit-pro/id496304542?mt=12&uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.mac.carTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:535111579": {
+      "key": "apple:535111579",
+      "store": "apple",
+      "id": "535111579",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Hazard Perception Test Kit",
+      "description": "Join 5 million drivers who learnt using our driving theory test apps! Prepare for your UK Hazard Perception test with this easy to use application featuring 80 DVSA LICENSED and unique Hazard Perception Revision Videos:\n\n*** 80 Unique Hazard Perception Test Videos *** \n\nCGI and real-life HPT videos made by the DVSA plus 36 extra clips only available here. All videos include interactive scoring with full explanations. \n\n*** ANTI CHEATING MECHANISM *** \n\nCheat detection software checks whether the way you respond could be flagged as cheating in the real test.\n\n*** Track your Progress ***\n\nRecords your progress so you can see how you’re doing and when you’re ready to pass.\n\n*** Professional Explanations ***\n\nEvery video explains what you need to know and how to improve your score\n\n*** Need Help? ***\n\nContact our UK-based support team at support@drivingtheorytest.org\n\n____________________________________\n\nThis app is designed for learner car drivers who need to practice for the UK DVSA driving theory test in order to obtain a driving license.\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/2a52c60de01670efb1130542e21c667116dd75ccd5b59eae5c7629a65b1ff473.jpg",
+      "screenshots": [
+        "/store-assets/f744891cf888273624b4b8305aa4c260cd32854a3b989132b7f8959ff62f72e3.jpg",
+        "/store-assets/bcb8b371aa5a71ecf1df673e846a667c8f84a7c4daed91a5f657f1a69741819a.jpg",
+        "/store-assets/f726a9e6c820e1d73e53aaa0015e509e1a27ff11cd4ed22c95a9a1fe6ee4e1d0.jpg",
+        "/store-assets/3abee0d825b77c5b277d6d16baba606396f8bfa3f530ddc770b65c2d37367c63.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/hazard-perception-test-kit/id535111579?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.HazardPerceptionLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:1011522349": {
+      "key": "apple:1011522349",
+      "store": "apple",
+      "id": "1011522349",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Dutch Caribbean Theory Test",
+      "description": "Join 7 million drivers who learnt using our driving theory test apps. Dutch Caribbean Theory Test includes 4100+ questions and explanations written by professional instructors. Be sure you have everything needed to pass first time!\n\n\n*** All Dutch Caribbean Islands ***\n\nValid for tests in Aruba, Curaçao, Sint Maarten, Bonaire, Saba and Sint Eustatius.\n\n\n*** English & Dutch languages ***\n\nAll questions and explanations are in Dutch and English. Switch languages at any time.\n\n\n*** 2025 Driving License Bureau Theory Test ***\n\nSuitable for both Car and Motorcycle tests. Includes 4100+ questions & explanations from all three topics: general rules, traffic situations & traffic signs/road markings.\n\n\n*** Professional Explanations ***\n\nCreated by professional instructors with feedback from students. Every question explains what you need to know and how to improve your score.\n\n\n*** Regularly Updated ***\n\nCovers everything needed to pass the 2025 Driving License Bureau Theory Test. New questions added whenever the test changes.\n\n\n*** Mock Tests ***\n\nUnlimited mock tests that mimic the real test.\n\n\n*** Track your Progress ***\n\nRecords your progress so you can see how you’re doing and when you’re ready to pass. Save difficult questions to revisit later or just before your test.\n\n\n*** Coach Mode ***\n\nIntelligent software helps you focus your revision on areas you need the most help with\n\n\n*** Try before you buy ***\n\nGet 30 questions completely free!\n\n\n*** Need Help? ***\n\nContact our Netherlands-based support team at support.nl@drivingtheorytest.org\n\n\n*** Advertisement Free ***\n\nUninterrupted revision with no distractions\n\n\n*** Works Offline ***\n\nGet as much practice as you need without worrying about data usage\n\n\n*** Search Function ***\n\nFind specific questions quickly and easily\n\nNEED HELP? Contact our Netherlands-based support team at support@drivingtheorytest.org\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/",
+      "icon": "/store-assets/397d1c7e609149cdf75cc830118e6d3959893efb632b606b4cfe168c72431e50.jpg",
+      "screenshots": [
+        "/store-assets/b5547a325d829cc68c6dec94bf94c5e0df009345799ebadde0084c9d5a8892bd.png",
+        "/store-assets/12fa1023cac0567edc8fd5f89038d949a4dbc35a32edc3652200016b126b5958.png",
+        "/store-assets/faac139bfbb3df3d6321094a2a816743b14d50ac972d657e72fe50dee26523d7.png",
+        "/store-assets/414edd9e0c0533c9eb82c5d62853ff833f43cd7c415f71862618e2146ee7a5ef.png",
+        "/store-assets/b2bfaca1c7c50a7cf659bf03a6f330df74c0244b1015212d1964df42d9353609.png",
+        "/store-assets/4be8804a0b3dc1eaab13b19b826297ed4a5657225ac121b4431b9809aac234fe.jpg",
+        "/store-assets/fb76ec7e2916ab173a070188edbaf132952749fb1f6b71c652513171967cddb8.jpg",
+        "/store-assets/d4c4749751b39c69e6444f532c4da7316308633b823f324a3c5976a035f0365a.jpg",
+        "/store-assets/0bb52cf2dd8743a1dd1acf5f6d2fcbd5a1e1068674a86acce6565226e0ebe4c0.jpg",
+        "/store-assets/fb12880386cb22d6b005a95d51336aeaa893d2b3963472b10cdd1daead4443cb.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/dutch-caribbean-theory-test/id1011522349?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.arruba",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:496315980": {
+      "key": "apple:496315980",
+      "store": "apple",
+      "id": "496315980",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Motorcycle Theory Test UK Pro",
+      "description": "In collaboration with Camrider motorcycle training: helping motorcyclists pass their tests since 1977!\n\n2026 READY. Free updates when the DVSA changes theory questions or hazards.\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass.\n\nDVSA QUESTIONS. All 700+ revision questions & explanations. No App, CD, or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips.\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users.\n\nHIGHWAY CODE. Unlimited access to the complete highway code.\n\nROAD SIGNS. Includes all UK road markings & traffic signs.\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice.\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia.\n\nTRACK PROGRESS. See which topics need more practice.\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score.\n\nNO ADVERTS. Uninterrupted revision with no distractions.\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage.\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions.\n____________________________________\n\nPremium Features with Subscription\n\nUnlock the full learning experience with the Monthly Platinum Subscription, which includes:\n\t•\tAll DVSA questions, including case studies.\n\t•\t80 hazard perception videos.\n\t•\tComprehensive road signs and explanations.\n\nSubscribe to access these premium features and maximize your chances of passing! Subscription details:\n\t•\tMonthly Platinum Subscription: Access all content, videos, and case studies for a monthly fee.\n____________________________________\n\nNeed Help?\n\nContact our UK-based support team at support@drivingtheorytest.org.\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner motorcyclists who need to practice for the UK DVSA motorcycle theory test in order to obtain a driving license.\n\nCrown Copyright material reproduced under license from the Driver and Vehicle Standards Agency, which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/b0a36edc0093331e640f92407a6fe3aa3b297976180c1bc2d8380ea4368f348e.png",
+      "screenshots": [
+        "/store-assets/bf4f7ff4910e2e7bac92385a9c708d8ddc33b9840b709d1e73b9f4e4d9b4d6ad.jpg",
+        "/store-assets/850efd4a54f9b23870d9680dc956f5a048e97752fe9e1b2a244c25cfd74013c4.jpg"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/motorcycle-theory-test-uk-pro/id496315980?mt=12&uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.mac.motoTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:490440404": {
+      "key": "apple:490440404",
+      "store": "apple",
+      "id": "490440404",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Motorcycle Theory Test UK Kit",
+      "description": "* In collaboration with Camrider motorcycle training: helping motorcyclists pass their tests since 1977! *\n\n2026 READY. Free updates when the DVSA changes theory questions or hazards\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass\n\nDVSA QUESTIONS. All 700+ revision questions & explanations. No App, CD or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nHIGHWAY CODE. Unlimited access to the complete highway code\n\nROAD SIGNS. Includes all UK road markings & traffic signs\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia\n\nTRACK PROGRESS. See which topics need more practice\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score\n\nNO ADVERTS. Uninterrupted revision with no distractions\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions\n\nNEED HELP? Contact our UK-based support team at support@drivingtheorytest.org\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner motorcyclists who need to practice for the UK DVSA motorcycle theory test in order to obtain a driving license.\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/b48e06854daf0438d4c31e23f9654c53ca842e9b7328d8914fbea3a121961b61.jpg",
+      "screenshots": [
+        "/store-assets/a66bdc6c03fb07e0ec9cd3e399b78719f36fde22f148b8cb34050c39fe507dbd.png",
+        "/store-assets/7d84e6434952aabbf9a3ac901dfe8045d82b763612a43afe5a8b5991ad484811.png",
+        "/store-assets/fb5bb1ac08540a5d585499534dddae3fc68946659ff0be2021dadf97afc28a16.png",
+        "/store-assets/cb569027c355a075396b8c171e944c385e2113103a806077c8e4776cbac4fed0.png",
+        "/store-assets/2842ea4308716aad07fcdfc399e9357f5db0223087b351886c095a1abbb5ae56.png",
+        "/store-assets/a2e02ce13d929324d9142294345307ef91c864cb52761b8db90c52777dc31b8f.png",
+        "/store-assets/d82d56eb2dd850b6a98a51557db7552c23767cc2eaa104683c344b36fe1e18e2.png",
+        "/store-assets/2269b231f6000775ff11accfdb0609336f4a784b9b2769dc07de27be105a7c92.jpg",
+        "/store-assets/8e086f6ce7b84a1b6d431ef2dcb4514fc61aa369779106ab3d498d829ae8b5ac.png",
+        "/store-assets/313c681746c9ce652647220fd418ef8e9cb5e51d9188fb133f28cc11fa515a9f.png",
+        "/store-assets/60712f96fc9aca539d2e3cfdd8d26301ffa15b9f791685d2e925d46aa1bc98cf.jpg",
+        "/store-assets/301df77979838f1ed2b587a667ebf5fd7fcdc787934ad20edf36bb2bedb63219.jpg",
+        "/store-assets/97f3f7d1a561327e56c79aa1aa20e92d03c0ed06479f835ecb11c6158766b97c.jpg",
+        "/store-assets/077506353b5caacb7867cdf0d7649a572f33eec9fae9dd8b81b592ab0d079b3b.jpg",
+        "/store-assets/55d19431b045e61ea26a8ae12e8e52844cf49c725316a841694264f96ebc68c8.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/motorcycle-theory-test-uk-kit/id490440404?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.motoTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:490449948": {
+      "key": "apple:490449948",
+      "store": "apple",
+      "id": "490449948",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "HGV Theory Test Kit",
+      "description": "2026 READY. Free updates when the DVSA changes theory questions or hazards\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass\n\nDVSA QUESTIONS. All 900+ revision questions & explanations. No App, CD or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nCASE STUDIES. 50 case studies & 320 questions for CPC Part 2 \n\nHIGHWAY CODE. Unlimited access to the complete highway code\n\nROAD SIGNS. Includes all UK road markings & traffic signs\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia\n\nTRACK PROGRESS. See which topics need more practice\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score\n\nNO ADVERTS. Uninterrupted revision with no distractions\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions\n\nNEED HELP? Contact our UK-based support team at support@drivingtheorytest.org\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner HGV & LGV drivers who need to practice for the UK DVSA LGV/HGV theory test in order to obtain a driving license.\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/43d2bc4e9300aaa33e49732e78101e7201711bd22736ef5924963122a001c908.jpg",
+      "screenshots": [
+        "/store-assets/a77b1932f181d7370f688930a229599f55096bf024c0948731c249e7e7e03ee7.jpg",
+        "/store-assets/cfea10e8fbe58da413ca927d98af3c094bff2fa35e89e1cb2401a5e6dcff08c3.png",
+        "/store-assets/4792e003988fe5536a81312e03c545b36f978026782d8260ddda9a11be328470.png",
+        "/store-assets/085a61d242c8c47045887f21e2281377f9142aacdb3b48fb96167280580d5935.png",
+        "/store-assets/65dff9be2af872b1a4634610cf2811564de46288dc9f4d409594648adc51502b.png",
+        "/store-assets/6df9af8c81d54f90251df95f2f19aad9f4d4329bca7a2a6e8e54852595b68242.png",
+        "/store-assets/6aa326808ed9d116e65d493af3571e1d2eae3d1e31c156e5ffa3ba157e75a395.png",
+        "/store-assets/eb33254cad42044eae103d4b775e119a210115a32fc3c826a1b9fa84255dc345.jpg",
+        "/store-assets/c64c51ef625f04f19b0d516288c0ba27464c876eaf3a05c9a9ff42558b5e8a80.png",
+        "/store-assets/60e0f174e0c09c7df9d4a2880b85f57daf754b60e44e23d0b907da7331d40188.png",
+        "/store-assets/2c8e59a05adfa2ca44495de1a1daebad3c128d5b89f46d86464c210d73f1c366.png",
+        "/store-assets/e3a7fe5b8eeab4e76ac80520d67482e2aa8fc43766af8ad47ff872658a745f73.png",
+        "/store-assets/8fdf5438bac8052320f656923cc1b0bcd9b6ded4941e9501e4fc41b0db99aac6.png",
+        "/store-assets/d49070d30526cb43152509226607c7c7b4146ef8d033a63c6a047f8039cc549f.png",
+        "/store-assets/b7d99e70f1b83879561d0fbfb43f660684140767d21e38bab833be99cb8af0fa.png",
+        "/store-assets/ff55209b468aefc8b91bf7b021e1355b692fb71b13b6c27e7d50497babedf1f2.png",
+        "/store-assets/f52b6486cd82989a5a5910440554e8e7a9a6d442c27dcd11a48b13f1ff8ecc6a.png",
+        "/store-assets/327e85d9441371ab2a67b8e528b81172652e0c7c76ead847185a4abae229014c.png"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/hgv-theory-test-kit/id490449948?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.lgvTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:1317140584": {
+      "key": "apple:1317140584",
+      "store": "apple",
+      "id": "1317140584",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "CBR Theorie Examen Oefenen",
+      "description": "Join 8 million drivers who learnt using our driving theory test apps. CBR Car Theory Test Practice includes 3,500+ questions and explanations written by professional instructors. Be sure you have everything needed to pass your test first time!\n\n\n*** CBR Car Theory Test 2026 ***\n\nThe only app that uses the official CBR test structure. Includes nine topics and 3 500+ questions from all three test categories: Danger Recognition, Knowledge and Insight\n\n*** In Dutch and English ***\n\nAll questions and explanations are in Dutch and English. Switch languages at any time.\n\n*** Professional Explanations ***\n\nCreated by professional instructors with feedback from students. Every question explains what you need to know and how to improve your score\n\n*** Regularly Updated ***\n\nCovers everything needed to pass the 2026 CBR theory test. New questions added whenever the test changes\n\n*** Mock Tests ***\n\nUnlimited mock tests that mimic the real CBR Car Theory Test\n\n*** Track your Progress ***\n\nRecords your progress so you can see how you’re doing and when you’re ready to pass. Save difficult questions to revisit later or just before your test\n\n*** Coach Mode ***\n\nIntelligent software helps you focus your revision on areas you need the most help with\n\n*** Try before you buy ***\n\nGet 5 free topics including 1,100 questions completely free!\n\n*** Need Help? ***\n\nContact our Netherlands-based support team at support.nl@drivingtheorytest.org\n\n*** Advertisement Free ***\n\nUninterrupted revision with no distractions\n\n*** Works Offline ***\n\nGet as much practice as you need without worrying about data usage\n\n*** Search Function ***\n\nFind specific questions quickly and easily\n\nWith premium subscription all the topics and unlimited content will be available for you.\n1 month premium subscription available for you.\n\nQuestions or comments? Let us know through our in-app support or via support.nl@deepriverdev.co.uk\n\nTerms of Use (EULA): https://drivingtheorytest.org/termsandconditions/\nPrivacy Policy: https://drivingtheorytest.org/privacy-policy-ios/",
+      "icon": "/store-assets/acac7b4f6888e9fe5244f878403b9e744163acf61ad3b9425c6050f5aee85fc1.jpg",
+      "screenshots": [
+        "/store-assets/79612ebd10178b7f8fb7e907a5881eaafff884733c620e26a2856603362fc3d7.jpg",
+        "/store-assets/21abe7a7e6feca731578d898ef7a05496af4fe5c6b7a79da122a1b51cfdf3b0b.jpg",
+        "/store-assets/057371adf8d54a9ac46fbe2591879064f2f369f8b3eb8881b90a138332f5413b.jpg",
+        "/store-assets/31b2c6766d7cea2e9b99e14fefd8f5dcc32e441c9e974975bed9daf36fc4249a.jpg",
+        "/store-assets/86769eaabc046e4b597d99eb9f7486c7d02f50368381fe7132481b37ac9e22a2.jpg",
+        "/store-assets/0854bad15ea640cec5194ade4ce735d27241cfbdb6feff30575bb13d977c87d3.jpg",
+        "/store-assets/2679d849697021eb4b24c3ac9c9f81cc0606f480af55d09b42d785c91eb8768e.jpg",
+        "/store-assets/7db2e0439eeef98c8b5c5b0e402f87ee896c5d8f6cf9e82da1f6ff7ff40faf29.jpg",
+        "/store-assets/01e6ccb6b2a300a1d64da494448d9832a4b712fbd246410c3a070af433726923.jpg",
+        "/store-assets/125d8e5afcaa6b3fcb3237536f91c946a2c8848869a232353164a4392677e329.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/cbr-theorie-examen-oefenen/id1317140584?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "nl.deepriverdev.iOS.carTest",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:490449932": {
+      "key": "apple:490449932",
+      "store": "apple",
+      "id": "490449932",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "PCV Theory Test & Hazards Kit",
+      "description": "2026 READY\nStay up to date with free content updates whenever the DVSA revises theory questions or hazard clips.\n\nMOCK TESTS\nPractice with unlimited mock tests to know when you’re ready to pass.\n\nDVSA QUESTIONS (Available via in-app purchase)\nGet access to all 900+ official revision questions with detailed explanations.\n\nHAZARD PERCEPTION (Available via in-app purchase)\nPractice with 80 DVSA-style CGI videos, including clips on bad weather, motorways, night driving & vulnerable road users.\n\nLATEST HAZARDS (Included in Hazard Perception upgrade)\nCovers new DVSA scenarios such as accidents and bad weather conditions.\n\nHIGHWAY CODE\nFree, full access to the latest UK Highway Code.\n\nROAD SIGNS\nIncludes all official UK traffic signs and road markings.\n\nAI-POWERED LEARNING (Premium feature, available via in-app purchase)\nIntelligent Coach Mode identifies weak areas and guides your revision.\n\nVOICEOVER (Premium feature)\nHave questions read aloud to support users with reading difficulties or dyslexia.\n\nTRACK PROGRESS (Premium feature)\nMonitor your strengths and weaknesses across all topics.\n\nPROFESSIONAL EXPLANATIONS\nUnderstand the logic behind each answer to help improve your test score.\n\nNO ADVERTS (Upgrade required)\nFocus without distractions – remove all ads with a one-time upgrade.\n\nWORKS OFFLINE\nPractice anywhere, anytime without using mobile data.\n\nSEARCH FUNCTION\nQuickly find specific questions or topics.\n\nThis app is designed for learner PCV/Bus/Coach drivers preparing for the UK DVSA PCV theory test.\nCrown Copyright material reproduced under licence from the DVSA, which is not responsible for the accuracy of this reproduction.\nDeep River Development is a limited company based in Cambridge, UK.\nSupport: support@drivingtheorytest.org\nTerms: https://drivingtheorytest.org/termsandconditions/",
+      "icon": "/store-assets/13735527f99bfe6325b00ab470cc513e82731d711b5924ba2545b7a9a0b97b86.jpg",
+      "screenshots": [
+        "/store-assets/779ec1f3ae86bbf11c0cb36ffd8ffff2a17f4ae4ecf56edbbc4546db7f98be87.jpg",
+        "/store-assets/f5db1fd404fa021f44ccbf391228ef0136a1148438f161e05c6e727b266d87bd.png",
+        "/store-assets/11602c947115e424c44e6c8ca84a6fab45ef3d7edd5669e5bc825cd53d178bc0.png",
+        "/store-assets/96df9daca5d0711165d3e23299e29c02ee5730b108cbc8d3a2534054e045deab.png",
+        "/store-assets/f7d2163958795bd520d2d89978a6598ca50afd4b268dcc159903b7866c2d602b.png",
+        "/store-assets/124ced165f81252432927499ef55bf82c84154efd9fe6436e5ca549b5f1cdd0c.png",
+        "/store-assets/44ee823dfe040c31ff370097aadcb6209623a1d705b3be0ab6efac64cb737544.png",
+        "/store-assets/2fb04146aaaec95c8d869031f136c101f961076cdfef51cfccc04fcaddfeb86b.jpg",
+        "/store-assets/6e42d3e2829b02a6e8961d36d3e3b2653b3eb4d5abfac45d5a0420f4c54448fc.png",
+        "/store-assets/d74a7a634f463c8f7933f708cade21c64996e27edb8778358ef20eaf3931c197.png",
+        "/store-assets/f578272b788950e9e358f0072a8575c4d4ad7fd9cb62e10805d827d2f10b3f7d.jpg",
+        "/store-assets/a39f1ac05bc8b0b80387f0a0a5119fd83d7ada1f842c4ec46d8b3f63c3a6c991.jpg",
+        "/store-assets/bf4c9a8641b051acce1dd0878c12a39736820356989d0e6832da563681b8972c.jpg",
+        "/store-assets/c57bbc0fc4f5ea6d1a6fea2940fe0d5809992183b419032b1a9898bbd9bc97cb.jpg",
+        "/store-assets/15a224dcdced9ceedc862ddbd91db5882323d52a9fd0f28d2092016f766113fc.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/pcv-theory-test-hazards-kit/id490449932?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.busTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:595149765": {
+      "key": "apple:595149765",
+      "store": "apple",
+      "id": "595149765",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "ADI Theory Test Kit",
+      "description": "Practice all 860 of the latest 2026 ADI Theory Test Revision Questions \n\nADI Theory Test UK allows you to practice for your test whenever and wherever you like. All 860 of the latest DVSA licensed (former DSA) revision questions covering all four bands of the test are included. This simple and intuitive app that allows you to answer questions at your leisure or under real test conditions, whilst advanced statistics enables you to keep track of your progress. \n\n***Key features***\n\nRevise each of the four bands of the test separately or at the same time\n\nQuestions are scored immediately and each question comes with full background information\n\nNo annoying repetition - choose how many times you want to repeat questions previously answered correctly\n\nMock test function uses the same scoring and time limit as the real test\n\nSimple and intuitive interface allows you to focus your efforts on revision\n\nAdvanced statistics all you to keep track of your progress overall and on different sections of the test\n\nAbsolutely NO ADVERTS\n\nHighway code included\n\nRegularly updated - 2026 ready\n\nWorks offline - train whenever and wherever you want\n\niCloud support allows you to sync your results on your iPad and iPhone\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nCrown copyright material has been reproduced by permission of the Driving Standards Agency, which does not accept any responsibility for the accuracy of the reproduction.",
+      "icon": "/store-assets/d18501fdd22bffa58b9183dd4e8270420aaba41fceaa5ebad4d22a9972636674.jpg",
+      "screenshots": [
+        "/store-assets/244d62fde86060088f0938a11394ca3346392b7a126dcc5d20c36759a32c3224.jpg",
+        "/store-assets/a6b8ced4501758de92c2458e06995f58902b3d0b6126ddb1f33195712916ad1d.jpg",
+        "/store-assets/aa136a50b21855052d1102fffa4db3efd977652c4cf2bd380adb99fa01308303.jpg",
+        "/store-assets/711a138db01da23d056c75b9af106195a3716a97d7330a29744f3629ec75905d.jpg",
+        "/store-assets/d11bfc15e0b9992e30f1bdd96894969022e1defe72c279a6a74589363ba2740f.jpg",
+        "/store-assets/1fb01c4ea21ab8b7f50ffa0b42a04ccdb5baa5b388f44a888840c29a52c34080.jpg",
+        "/store-assets/d724d474b8f31dc91b227aca1992a665a2c033604b07d56d85a5bde624a6502e.jpg",
+        "/store-assets/c6c75dd24ec53b4bb9ec5e3ed4d7fd4b708ddac628919868eb1c4a696697b4c7.jpg",
+        "/store-assets/404c05a0edcf1cddac204810eb58a6af2fe323dbd1172a06dc39ed346c5910cd.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/adi-theory-test-kit/id595149765?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.adiTest",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:1230353316": {
+      "key": "apple:1230353316",
+      "store": "apple",
+      "id": "1230353316",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "The Highway Code 2026",
+      "description": "The complete Highway Code 2026 contains all the rules, regulations and traffic signs from The Official UK Highway Code. The App covers everything you need to know about driving safely in the UK.\n\nCOMPLETY FREE \nNO ADS OR BANNERS\n\n-\tContains the latest 2026 UK highway code\n\n-\tIncludes a full list of traffic signs from The Official UK Highway Code\n\n-\tMenu allows easy navigation through topics\n\n-\tSearch for specific rules using keywords \n\n-\tLinks to actual laws on legislation.gov\n\nQuestions or comments? Let us know through our in-app support or via support@deepriverdev.co.uk",
+      "icon": "/store-assets/85f7f1e10ebb84267c7aacf3689f74f317c819ced73174806fc32e6f87bba857.jpg",
+      "screenshots": [
+        "/store-assets/ce817b8bf115a23d5991afb694417d68f077f5b61f7a72cdaaf010f1198a8efd.jpg",
+        "/store-assets/d4b3c60e06aaf77c06797cb68298170029cbf80978fdc54419dd63c2172cdc7c.jpg",
+        "/store-assets/9b3e8b04fbc17ca720e1b46c50aabc0ce3d5e5aaf6057a60c95531783438cdcc.jpg",
+        "/store-assets/212285246acb757bf868eae3312d9aaf3aacdc1de7eaf835055a3868519c2932.jpg",
+        "/store-assets/f049243812846fd6dca1f66f2d1dd083bd87890751a969fc71cd4a445486b7e4.jpg",
+        "/store-assets/00a05b3686d0267f30ae7307a29a45011104c51c43abfd9e65c8c92d7366f1c0.jpg",
+        "/store-assets/c7cae2737486f92b0feedcaab241aa9465c9858d887c623ad91fb10d110e6983.jpg",
+        "/store-assets/cfafac4fad5675813c26950f852abf83497b480d0beb822602a898375a754de3.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/the-highway-code-2026/id1230353316?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.highwayCode",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:496331246": {
+      "key": "apple:496331246",
+      "store": "apple",
+      "id": "496331246",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "PCV Theory Test Hazards Kit UK",
+      "description": "2026 READY. Free updates when the DVSA changes theory questions or hazards\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass\n\nDVSA QUESTIONS. All 900+ revision questions & explanations. No App, CD or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nHIGHWAY CODE. Unlimited access to the complete highway code\n\nROAD SIGNS. Includes all UK road markings & traffic signs\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia\n\nTRACK PROGRESS. See which topics need more practice\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score\n\nNO ADVERTS. Uninterrupted revision with no distractions\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions\n\nNEED HELP? Contact our UK-based support team at support@drivingtheorytest.org\n____________________________________\n\nPremium Features with Subscription\n\nUnlock the full learning experience with the Monthly Platinum Subscription, which includes:\n\t•\tAll DVSA questions, including case studies.\n\t•\t80 hazard perception videos.\n\t•\tComprehensive road signs and explanations.\n\nSubscribe to access these premium features and maximize your chances of passing! Subscription details:\n\t•\tMonthly Platinum Subscription: Access all content, videos, and case studies for a monthly fee.\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner PCV/Bus/Coach drivers who need to practice for the UK DVSA PCV theory test in order to obtain a driving license.\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/bf1002081da14edca3056a9076f1ace9bd0b70639690473703056d3bc7cbf8eb.png",
+      "screenshots": [
+        "/store-assets/b9057cce625573e60e5b8a4a912b84ba986e9fa1196d35232ff4ef4f4f2240c3.jpg",
+        "/store-assets/0ffc8d299f5887acebd2222564925792e1fcbb4fc5c7aa3b7217c740d5a567f1.jpg"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/pcv-theory-test-hazards-kit-uk/id496331246?mt=12&uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.mac.busTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:496294927": {
+      "key": "apple:496294927",
+      "store": "apple",
+      "id": "496294927",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "HGV Theory Test Kit Pro",
+      "description": "2026 READY. Free updates when the DVSA changes theory questions or hazards\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass\n\nDVSA QUESTIONS. All 900+ revision questions & explanations. No App, CD or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nCASE STUDIES. 50 case studies & 320 questions for CPC Part 2 \n\nHIGHWAY CODE. Unlimited access to the complete highway code\n\nROAD SIGNS. Includes all UK road markings & traffic signs\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia\n\nTRACK PROGRESS. See which topics need more practice\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score\n\nNO ADVERTS. Uninterrupted revision with no distractions\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions\n\nNEED HELP? Contact our UK-based support team at support@drivingtheorytest.org\n____________________________________\n\nPremium Features with Subscription\n\nUnlock the full learning experience with the Monthly Platinum Subscription, which includes:\n\t•\tAll DVSA questions, including case studies.\n\t•\t80 hazard perception videos.\n\t•\tComprehensive road signs and explanations.\n\nSubscribe to access these premium features and maximize your chances of passing! Subscription details:\n\t•\tMonthly Platinum Subscription: Access all content, videos, and case studies for a monthly fee.\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner HGV & LGV drivers who need to practice for the UK DVSA LGV/HGV theory test in order to obtain a driving license.\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/732c3d1ec03739c6581daed321b582386750ed176fda00a499437659e111f90d.png",
+      "screenshots": [
+        "/store-assets/ff427dac78ab4f868bd9648aaadc460f0357e0731d864659d9e144d92e1f2948.jpg",
+        "/store-assets/74f8a6037f4d964905ab9db1bac25a65caf00dc23279ba2dc9807d198785d4eb.jpg"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/hgv-theory-test-kit-pro/id496294927?mt=12&uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.mac.lgvTestLite",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:6504173725": {
+      "key": "apple:6504173725",
+      "store": "apple",
+      "id": "6504173725",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Forklift Theory Essentials",
+      "description": "FORKLIFT THEORY ESSENTIALS – Your complete companion for mastering forklift theory and passing your Forklift Operator Test!\n\nKey Features:\n\nExpert-Written Questions: Created by RTITB and ITSSAR accredited instructors.\n\nDetailed Explanations: Clear, simple answers that explain the knowledge behind each question.\n\nIn-Depth Lessons: Dive deep into each topic with extra details for better understanding.\n\nTraining Videos: Short, easy to follow clips that explain the basics of operating a forklift.\n\nVoiceover: Our built-in voiceover reads questions and explanations for you — ideal for neurodiverse learners.\n\nRealistic Mock Tests: Practice in test-like conditions to know when you're ready.\n\nProgress Tracking: See your strengths and areas for improvement at a glance.\n\nUnlimited Practice: Study anytime, anywhere—even outside the classroom.\n\nAlways Up to Date: Automatic updates keep you current with any rule or regulation changes.\n\nStress & Anxiety Reduction: Build confidence and ease nerves by studying at your own pace.\n\nTraining Managers: Great for selecting candidates, checking knowledge after an accident, or holding quick toolbox talks.\n\nWhether you’re new or just refreshing your skills, FORKLIFT THEORY ESSENTIALS has you covered.\n\nDownload now and get everything you need to pass your Forklift Operator Test with confidence!\n\nNEED HELP? Contact our UK-based support team at forklift@deepriverdev.co.uk\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/",
+      "icon": "/store-assets/852a8d21c6dea08d9b7148006ce7d7a2824ca8715d81f8733c726b66c0e206d4.jpg",
+      "screenshots": [
+        "/store-assets/0b3e1ceb236a31c9da1340ceed2f8d3ef1739fb8900bc0657633250e2a8f966f.jpg",
+        "/store-assets/4068aff73603a3a7011e8ff5cc2c4352581ad851912c9672f25c1b4e63ef3a83.jpg",
+        "/store-assets/2438ab80f727e68bf5562b07e2a29af5710a6e9007381cb455ca71bf047155c2.jpg",
+        "/store-assets/f83da4e0502148d5dbee4d3b7d4eb6de50322670efad3e3eb87ccb55174632ea.jpg",
+        "/store-assets/e135b5e4c89af66d604e045f7de7fde60643c9fc250561c74d6a33b6fdf92386.jpg",
+        "/store-assets/782042bbe0b465e68be8879cc4b43b5c7b32724b695704a9e4124d3edc6c10bc.jpg",
+        "/store-assets/f14469d8f690ab3bff4c17781b333acba9c26cade843c4db6c3420021af5366f.jpg",
+        "/store-assets/e24c1fa5c000b32758ce37e4ad11c66e85b6f8ed9b24cabc3dd81fcd0ed8f5ab.jpg",
+        "/store-assets/00b5b5ad28c779b0e14d7c1a72868ac81fae0e0e7768750620bb535c819d6ab9.jpg",
+        "/store-assets/5f2a3e201f7c8ed6a953083581c5b2eaee85e3ed2eb35b3b53465c1e8a721e79.jpg",
+        "/store-assets/0a7de9336e15b47a663ee5fafcf3cdb18ebd799497fa65c46704e3c35b51e2e4.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Reference",
+        "Education"
+      ],
+      "url": "https://apps.apple.com/gb/app/forklift-theory-essentials/id6504173725?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.forklift",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:596040849": {
+      "key": "apple:596040849",
+      "store": "apple",
+      "id": "596040849",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Driving Theory Test UK Kit",
+      "description": "2024 READY. Free updates when the DVSA changes theory questions or hazards\n\nMOCK TESTS. Unlimited mock tests to see when you’re ready to pass\n\nDVSA QUESTIONS. All 700+ revision questions & explanations. No App, CD or book has more!\n\nHAZARD PERCEPTION. 80 videos with interactive scoring. Includes all DVSA CGI practice clips\n\nLATEST HAZARDS. DVSA hazard perception test now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nCASE STUDY VIDEOS. Every car theory test now includes a video case study\n\nHIGHWAY CODE. Unlimited access to the complete highway code\n\nROAD SIGNS. Includes all UK road markings & traffic signs\n\nDRIVING LESSONS. 39 video lessons by professional instructors …\n\nWatch a mock driving test so you know what to expect\nCommon faults and how to avoid them\nSkills and manoeuvres needed to pass\nCovers junctions, roundabouts, parking, emergency stops and much more!\n\nAI-POWERED LEARNING. Intelligent Coach Mode identifies areas needing more practice\n\nVOICEOVER. Questions read aloud to help with reading difficulties & dyslexia\n\nTRACK PROGRESS. See which topics need more practice\n\nPROFESSIONAL EXPLANATIONS. Everything you need to know & how to improve your driving theory score\n\nNO ADVERTS. Uninterrupted revision with no distractions\n\nWORKS OFFLINE. Practice as much as you need without worrying about data usage\n\nSEARCH FUNCTION. Driving theory test kit allows you to find specific questions\n\nNEED HELP? Contact our UK-based support team at support@drivingtheorytest.org\n\n____________________________________\n\nTerms & Conditions: https://drivingtheorytest.org/termsandconditions/\n\nThis app is designed for learner car drivers who need to practice for the UK DVSA driving theory test in order to obtain a driving license.\n\n* Crown Copyright material reproduced under licence from the Driver and Vehicle Standards Agency which does not accept any responsibility for the accuracy of the reproduction. Deep River Development is a limited company based in Cambridge, UK.",
+      "icon": "/store-assets/2f5717532d0fb0afbde761458d62e2cff99201ae01bf41bd18459a8693af0331.jpg",
+      "screenshots": [
+        "/store-assets/a802f7f9c33aa8f40d93faf3f7a68c179b75914aa0913337c76938caa9cc6446.png",
+        "/store-assets/b55962ccf2e2e081a3ec47eb2e39b3d7bd99e622de4460eb3cf4421d33986d26.png",
+        "/store-assets/71be738447a2952216d6b61a160aed70c33d3f70fb0cc7920ce94d4f23830f4a.png",
+        "/store-assets/3c83db74972c677600b331ec786efb6a27f5e8b6aa1b1e5b814310b157074ea2.png",
+        "/store-assets/2256b02ad54be811ba57f7466a9956f0962d5b007493cc45af7b3c2ef39ea6c6.png",
+        "/store-assets/9874cadcd12e259a6d4f5b3dac7dfe63d1b2a19eb53a61b8ba2e7420422401bc.png",
+        "/store-assets/c2867d3ff880d72f367f6c75635cc8416a35fca55a16b3c892725d758b25915d.png",
+        "/store-assets/ff70f9916ef9fae07fa8e6f5f9974eabd686fc744db7284aff74fe11a5daa6da.png",
+        "/store-assets/17ddec18b58bc01dca404e8302f585372426a04a087ff88a07348e9b7df9da0a.png",
+        "/store-assets/8e8d7eea71b79f84ea80bc5bc833ccd314291321f5e5a4e715c18271c0e324d6.png",
+        "/store-assets/cc5d3b90a572f46fa1feb8481af9aaf8d047e5eb6497db3c0cb77434f27ed2e7.png",
+        "/store-assets/0048ba5ea2b49c6a5fe942df9e2a79908782da2ee0a9fc7d86bef78938d17d6c.png",
+        "/store-assets/8553e19ccc5ed38df2e7559c1d33b4a3e30e67dfa5385a6c9c71b4253a93a31c.png",
+        "/store-assets/86893e3a0ff8206355dce15f5e503d0493f4875109a74662f76c74e8e0996566.png",
+        "/store-assets/77fabeca74601ddab82aa763d2505f7fd5232f03567a25cc7be3f989ec3bff1c.png",
+        "/store-assets/2e97394e0ee39ad46265cb3d2b89c816d042a69a32851801a0a3844f381bcbc5.png",
+        "/store-assets/b16376f4aae0de9910b81e189951044257b38852761f1a30bc88ecb4be1018fe.png",
+        "/store-assets/db1dd5da5f0fdc26dc543c49ffb801ef8f7cf7e7b04beeb70c3909ea25321118.png",
+        "/store-assets/922734716f87919b1c3cc762545b3f04d29132614c8bbe3063b5496dae123992.png",
+        "/store-assets/87b1c02c2cfac577046b3b1ab30798a45fad83a8ddc6953032c23f4a5d5c35ce.png"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/driving-theory-test-uk-kit/id596040849?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.carTestHPT",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "apple:535111438": {
+      "key": "apple:535111438",
+      "store": "apple",
+      "id": "535111438",
+      "accountId": "489255197",
+      "publisher": "Deep River Development Ltd",
+      "name": "Hazard Perception",
+      "description": "* * *  80 HPT Preparation Videos with explanations - far more then any other app! * * *\n* REAL test experience with DVSA LICENSED test videos and Unique custom made videos* \n* * * REAL TEST VIDEO QUALITY * * *   \n\nPrepare for your UK Hazard Perception test with this easy to use application featuring 80 DVSA LICENSED (former DSA) Hazard Perception Revision Videos \n\nMain advantages over the competition include: \n\n* 80 HPT videos (Full DVSA LICENSED and Unique Custom Made Videos with Explanations)\n\n* ANTI CHEATING MECHANISM – check whether your clicking style has a potential to be judged as inappropriate by DVSA \n\n* Extremely easy to use \n\n* Select any number of videos for your practice test \n\n* Comprehensive statistics average score and the number of clicks during last attempt \n\n* Hazard Perception test overview – in addition to the official introduction we have compiled some very useful information about the test which will help you to better understand what to do and how to succeed!",
+      "icon": "/store-assets/31744376bdb0fbee7e6da1192c219f3f3752278ec233ab50c8ec6685352c35aa.jpg",
+      "screenshots": [
+        "/store-assets/313abee033d41d7ea9c551c2175330deb73d71f5ef7c98312a36e5dee98ce3e5.jpg",
+        "/store-assets/bc34ff3f11c459386113a7056baef45cb0a17f4859904f8436724e11772f21c2.jpg",
+        "/store-assets/885502cb75e3b605a27e6bd0e7aee1bf01e2be8357b4f83858ad23aa8cbad23e.jpg",
+        "/store-assets/ba9564aa054bc7e961fa6ee7d388a4c1e1cb11ce0b527d417d8bef90387e3920.jpg"
+      ],
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "categories": [
+        "Education",
+        "Reference"
+      ],
+      "url": "https://apps.apple.com/gb/app/hazard-perception/id535111438?uo=4",
+      "country": "gb",
+      "availableCountries": [
+        "us",
+        "gb",
+        "fm",
+        "by",
+        "kz",
+        "ua",
+        "ru",
+        "uz",
+        "nl"
+      ],
+      "language": "en",
+      "bundleId": "uk.co.deepriverdev.iOS.HazardPerception",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "google:by.iapps.pdd.ukr": {
+      "key": "google:by.iapps.pdd.ukr",
+      "store": "google",
+      "id": "by.iapps.pdd.ukr",
+      "accountId": "7741481088943712424",
+      "publisher": "Aliaksei Strokin",
+      "name": "ПДД Тесты Билеты Темы Знаки UA",
+      "description": "Traffic Rules Tests Tickets Topics Signs UA\n\nAccelerated preparation for the Ministry of Internal Affairs exam with an intelligent learning mode!\n\nDescription:\nThe \"Traffic Rules Tests Tickets Topics Signs UA\" app is designed for those preparing for exams at the Ministry of Internal Affairs and driving schools. With our app, you can quickly and effectively prepare for tests, learn the rules of the road, and pass your driving test on the first try.\n\nKey Features:\n- Topics: Preparation for internal driving school exams on any topic.\n- Fines: Up-to-date information on fines for traffic violations.\n- Tickets: Over 1,000 questions and tickets for preparation.\n- Traffic Rules 2025: Expanded traffic rules for 2025.\n- Driving School: Complete preparation for driving school students.\n- Exam: Special tests to prepare for the Ministry of Internal Affairs exam.\n- Driving: Tips and rules for safe driving.\n\nNote:\nThis app is not a government-sponsored app and is not affiliated with any government agency. All information regarding traffic regulations is taken from official sources: https://zakon.rada.gov.ua/laws/main/l89740 and others. Graphic information and tests are protected by copyright and may not be used for commercial purposes.\n\nAdvantages:\n- Intelligent learning mode adapts to your knowledge level.\n- Supports various vehicle categories, including cars and motorcycles.\n- Real-time testing is available to help prepare for real exams.\n- An updated database of questions and rules ensures the information is always up-to-date.\n\nPrivacy Policy: https://pdd-by-0.flycricket.io/privacy.html\n\nContact Information: For any questions or suggestions, please email pdd@iapps.by\n\nThe \"Traffic Rules Tests Tickets Topics Signs UA\" app is your reliable assistant in preparing for your driving test and driving school. Start your preparation today and gain confidence in your knowledge!",
+      "icon": "/store-assets/0817b89fd491b87816a96a918d0a1e761e4f9d2b1acb4c141b0999bc2a3dbc61.png",
+      "screenshots": [
+        "/store-assets/ec10a210aeae2a168b6d28a4c040a1b895fa9901a6e64648d8592a0ea183a8d9.jpg",
+        "/store-assets/dadb342df3d6760c238639b524015f4bb121476d74e93eca3c5fcc2a31665183.png",
+        "/store-assets/4cc88396b5a7982d9852ad12666f0443518ace75abce1948bfc552c92504cc7c.png",
+        "/store-assets/c2d49cf2dd989305c708ae0ee452aaf0ed11f8b5d567303db6c117c5f7301c34.png",
+        "/store-assets/43491dc1850aa8843d1487dce4dc6c201686e351db25f05a58fef1e14e899f54.jpg",
+        "/store-assets/f48bc5be46f4b07b700cfb71d3d7e775fca9ca5b1872faca4470f438a8885d40.png",
+        "/store-assets/fe329d6ec683a5e9946688442932d4c18469c563475c3e474825c42db29811c3.png",
+        "/store-assets/1324ddd54f9999d31ceb0f0a7ac4a9167a839ee42871b2fe5713c0801c74b603.png"
+      ],
+      "platforms": [
+        "Android"
+      ],
+      "categories": [
+        "Education"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=by.iapps.pdd.ukr&hl=en&gl=us",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "by",
+        "kz",
+        "ua",
+        "ru"
+      ],
+      "language": "en",
+      "privacySource": "https://pages.flycricket.io/pdd-by-0/privacy.html",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "google:by.iapps.pdd.kz": {
+      "key": "google:by.iapps.pdd.kz",
+      "store": "google",
+      "id": "by.iapps.pdd.kz",
+      "accountId": "7741481088943712424",
+      "publisher": "Aliaksei Strokin",
+      "name": "ПДД Казахстан экзамен 2026 РК",
+      "description": "Kazakhstan Traffic Rules Exam 2026 RK is a training app for self-studying for the Kazakhstan traffic rules exam.\n\nPrepare for your driver's license exam with tests, tickets, traffic rules topics, fine reference information, and an intelligent learning mode. The app helps you review the Kazakhstan traffic rules, test your knowledge, and prepare for the theoretical exam at a driving school or before receiving your driver's license.\n\nIMPORTANT: This app is not a government-sponsored app and does not represent the Ministry of Internal Affairs of the Republic of Kazakhstan, the Government of the Republic of Kazakhstan, the GOV.KZ/eGov portal, the Specialized Center for Public Service, or any other government agencies. The app is an independent educational and reference tool for preparing for the traffic rules exam. The training tests, questions, explanations, and learning modes are not an official state exam and do not guarantee a driver's license.\n\nOfficial sources of government information:\n— Traffic Regulations of the Republic of Kazakhstan: https://adilet.zan.kz/rus/docs/P1400001196\n— Rules for Exams and Issuance of Driver's Licenses: https://adilet.zan.kz/rus/docs/V14C0010056\n— Information on preparing for and passing driver's license exams: https://www.gov.kz/situations/56/205?lang=ru\n— State service \"Issuance of Driver's Licenses\": https://www.gov.kz/services/3131\n\nWhat's in the app:\n\nTraffic Regulations of Kazakhstan 2026\nLearn the traffic regulations of the Republic of Kazakhstan in a convenient format. The materials will help you review the main topics of the traffic regulations of the Republic of Kazakhstan, road signs, markings, driver responsibilities, and safe driving rules.\n\nTraffic Regulations of the Republic of Kazakhstan Exam\nTake practice tests to prepare for the theoretical driver's license exam. Practice in exam mode, check your mistakes, and improve your score.\n\nKazakhstan Traffic Rules Tickets\nOver 1,000 practice questions and tickets for self-study. The questions are organized by topic to make it easier to review the rules and identify weaknesses.\n\nIntelligent Study Mode\nThe app analyzes your answers and helps you review the topics you're mistaken in more often. This study format helps you memorize traffic rules more effectively.\n\nKazakhstan Traffic Fines\nReference information on traffic fines in Kazakhstan. Use this section to review penalties for common traffic violations.\n\nDriving School Topics\nPreparation for the main topics covered in driving school: road signs, intersections, overtaking, stopping and parking, speed, priority, crossing intersections, and driver and passenger safety.\n\nDriving and Safety\n\nUseful resources for new drivers: safe driving tips, analysis of common mistakes, and reminders of important traffic rules.\n\nWho this app is for:\n— Those preparing for the Kazakhstan traffic rules exam;\n— Driving school students;\n— Future car and motorcycle drivers;\n— Those who want to review the Kazakhstan traffic rules;\n— Drivers who need to refresh their knowledge of traffic rules;\n— Users searching for Kazakhstan traffic rules tickets and Kazakhstan traffic rules tests.\n\nApp advantages:\n— Convenient preparation for the Kazakhstan traffic rules exam;\n— Study tickets and tests on the Kazakhstan traffic rules;\n— Exam mode for knowledge testing;\n— Intelligent error review;\n— Handbook of traffic rules;\n— Information on traffic fines under Kazakhstan traffic rules;\n— Preparation for driving school;\n— Clear interface and quick access to topics.\n\nThe \"Traffic Rules of Kazakhstan Exam 2026 RK\" app will help you systematically prepare for the theory exam, review the traffic rules of the Republic of Kazakhstan, and feel more confident during your driving school training.\n\nWe strive to keep our training and reference materials up-to-date, based on open, official sources. Before making legally significant decisions, we recommend verifying information on resources of the Republic of Kazakhstan.\n\nPrivacy Policy:\nhttps://pdd-by-0.flycricket.io/privacy.html\n\nContacts:\npdd@iapps.by",
+      "icon": "/store-assets/2d811b0bd562ad4a1b22bdcaada5472cfade3a9cd7ec273e4c739f07d763c85c.png",
+      "screenshots": [
+        "/store-assets/c9c446ed77ea510c152a579b46b39f8b85d5bd9941873d164eb420106d32ef56.png",
+        "/store-assets/b5e1647e42ec5b4a852f7f7d6af7ea741b9646685743af996bd01eabdc359f89.jpg",
+        "/store-assets/48bae0391d5c547898414e6ae0e959c132c16f2148c57e9a5b3a0e87eb35f3c3.jpg",
+        "/store-assets/fad0bd7faf7cd6f0631f04ec705e1eff21df88fe2b0cb1cd50bced07af9ce081.jpg",
+        "/store-assets/efe6d11cee9e7b733bf20b4cfcbf2e8cd84c034a327c5b14c3b815971960f6a3.jpg",
+        "/store-assets/830ea695844022c9a8865ee4d225d2c2acc262bb57946d856fcb2112c223ea83.jpg",
+        "/store-assets/eb67e810bf727ff31cd55d3715175747018f60e1caddd081a1281c0c874b81e4.jpg",
+        "/store-assets/7ffe4ac315de9f82eb39ee914bee4890f8bb03957ebd62141c7083f57e2b3988.jpg",
+        "/store-assets/3a903ebf97777d872e5595393c1bab011009108410b7c922162cf498ea2370dc.jpg",
+        "/store-assets/14a77417644e110a3fd8de9c5713a1c17702bd335810a234067e917a7c762ed0.jpg"
+      ],
+      "platforms": [
+        "Android"
+      ],
+      "categories": [
+        "Education"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=by.iapps.pdd.kz&hl=en&gl=us",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "by",
+        "kz",
+        "ua",
+        "ru"
+      ],
+      "language": "en",
+      "privacySource": "https://pages.flycricket.io/pdd-by-0/privacy.html",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "google:by.iapps.pdd.ru": {
+      "key": "google:by.iapps.pdd.ru",
+      "store": "google",
+      "id": "by.iapps.pdd.ru",
+      "accountId": "7741481088943712424",
+      "publisher": "Aliaksei Strokin",
+      "name": "Учи ПДД! Билеты и Экзамен 2025",
+      "description": "Learn Traffic Rules! Tickets and Exam 2025\n\nAccelerated preparation for the traffic police exam with an intelligent learning mode!\n\nDescription:\nThe \"Learn Traffic Rules! Tickets and Exam 2025\" application was created for those who are preparing to pass exams at the traffic police and driving schools. With our application, you can quickly and effectively prepare for tests, learn traffic rules and pass the driving test on the first try.\n\nMain functions:\n- Topics: Preparation for internal exams at a driving school on any topic.\n- Fines: Up-to-date information on fines for violating traffic rules.\n- Tickets: More than 1000 questions and tickets for preparation.\n- Traffic rules 2025: Extended traffic rules for 2025.\n- Driving school: Complete preparation for driving school students.\n- Exam: Special tests to prepare for traffic police exams.\n- Driving: Tips and rules for safe driving.\n\nNote:\nThis application is not state-owned and is not affiliated with government agencies. All information regarding traffic rules is taken from official sources:\n- https://gibddmoscow.ru/pdd/\n- https://www.drom.ru/pdd/pdd/\n- https://avtocod.ru/obshchie-polozheniya-pdd-rf-spisok-terminov-s-kommentariyami\n\nGraphic information and tests are protected by copyright and cannot be used for commercial purposes.\n\nAdvantages:\n- Intelligent learning mode adapts to your level of knowledge.\n- Support for various categories of vehicles, including cars and motorcycles.\n- Possibility of testing in real time, which helps prepare for real exams.\n- An updated database of questions and rules, which guarantees the relevance of the information.\n\nPrivacy Policy: https://pdd-by-0.flycricket.io/privacy.html\n\nContact Information: For any questions and suggestions, write to pdd@iapps.by\n\nThe application \"Learn Traffic Rules! Tickets and Exam 2025\" is your reliable assistant in preparing for driving tests and driving school. Start your preparation today and be confident in your knowledge!",
+      "icon": "/store-assets/3ea3a3d041f9743385b224ef2c8a6f2e351ea7d92c76e7b6201e024fe9774df2.png",
+      "screenshots": [
+        "/store-assets/42f570490e8e91e23e04a9e5e7c4442fc25514646b6a590aee6acff0293085ea.jpg",
+        "/store-assets/be09f26f34460dee8aca1797efead3fd1a2bec228f8bb0b2a374856ae5067716.jpg",
+        "/store-assets/178c2a2246b4dc8768ff70ccebc29d491aca41f90daea1e1aaed3f003ce1e07a.jpg",
+        "/store-assets/2c524477ef2415e7dcf0e17c5b19ff9fca54e1970b0c6019d8ff387be1627cf8.jpg",
+        "/store-assets/99595ea73643b397a132890478cff5e7a9bfd358e1a2bc5f5a77ba559ad197e3.jpg",
+        "/store-assets/9cf682a0ab1a743d697a594764b6ee93f1b8334891b4a7bd24ec923a64a24287.jpg",
+        "/store-assets/2f0a18715c59bb1a956fbba3a587daf4d512743218bdd2fec32f5162e4b3e48e.jpg",
+        "/store-assets/ad7ff8e498d871aec02ef5fbb250b58f6aac45304d2e803b80d2f9cc0cf0e01b.jpg"
+      ],
+      "platforms": [
+        "Android"
+      ],
+      "categories": [
+        "Education"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=by.iapps.pdd.ru&hl=en&gl=us",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "by",
+        "kz",
+        "ua",
+        "ru"
+      ],
+      "language": "en",
+      "privacySource": "https://pages.flycricket.io/pdd-by-0/privacy.html",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    },
+    "google:by.iapps.pdd.by": {
+      "key": "google:by.iapps.pdd.by",
+      "store": "google",
+      "id": "by.iapps.pdd.by",
+      "accountId": "7741481088943712424",
+      "publisher": "Aliaksei Strokin",
+      "name": "Тесты Билеты Темы ПДД Беларусь",
+      "description": "Tests Tickets Topics Traffic Rules Belarus\n\nAccelerated preparation for the exam at the State Automobile Inspectorate with an intelligent learning mode!\n\nDescription:\nThe application \"Tests Tickets Topics Traffic Rules Belarus\" was created for those who are preparing to pass exams at the State Automobile Inspectorate and driving schools. With the help of our application, you can quickly and effectively prepare for tests, study the traffic rules and pass the exam for a license on the first try.\n\nMain functions:\n- Topics: Preparation for internal exams at a driving school on any topic.\n- Fines: Up-to-date information on fines for violating traffic rules.\n- Tickets: More than 1000 questions and tickets for preparation.\n- Traffic rules 2025: Extended traffic rules for 2025.\n- Driving school: Complete preparation for driving school students.\n- Exam: Special tests to prepare for exams at the State Automobile Inspectorate.\n- Driving: Tips and rules for safe driving.\n\nNote:\nThis application is not governmental and is not affiliated with governmental agencies. All information about traffic rules is taken from official sources:\nhttps://pravo.by/document/?guid=3961&p0=p30500551\nhttps://pravo.by/document/?guid=2012&oldDoc=2005-189/2005-189(007-070).pdf\n\nGraphic information and tests are protected by copyright and cannot be used for commercial purposes.\n\nAdvantages:\n- Intelligent learning mode adapts to your level of knowledge.\n- Support for various categories of vehicles, including cars and motorcycles.\n- Possibility of testing in real time, which helps prepare for real exams.\n- An updated database of questions and rules, which guarantees the relevance of information.\n\nPrivacy Policy: https://pdd-by-0.flycricket.io/privacy.html\n\nContact information: For any questions and suggestions, write to pdd@iapps.by\n\nThe application \"Tests Tickets Topics Traffic Rules Belarus\" is your reliable assistant in preparing for driving tests and driving school. Start your preparation today and be confident in your knowledge!",
+      "icon": "/store-assets/ce76e0474a36be75d64573e60de8bc82fe1a6bdc8fb82f346a347fd8a1f90c04.png",
+      "screenshots": [
+        "/store-assets/42f570490e8e91e23e04a9e5e7c4442fc25514646b6a590aee6acff0293085ea.jpg",
+        "/store-assets/be09f26f34460dee8aca1797efead3fd1a2bec228f8bb0b2a374856ae5067716.jpg",
+        "/store-assets/2c524477ef2415e7dcf0e17c5b19ff9fca54e1970b0c6019d8ff387be1627cf8.jpg",
+        "/store-assets/178c2a2246b4dc8768ff70ccebc29d491aca41f90daea1e1aaed3f003ce1e07a.jpg",
+        "/store-assets/99595ea73643b397a132890478cff5e7a9bfd358e1a2bc5f5a77ba559ad197e3.jpg",
+        "/store-assets/9cf682a0ab1a743d697a594764b6ee93f1b8334891b4a7bd24ec923a64a24287.jpg",
+        "/store-assets/ad7ff8e498d871aec02ef5fbb250b58f6aac45304d2e803b80d2f9cc0cf0e01b.jpg",
+        "/store-assets/2f0a18715c59bb1a956fbba3a587daf4d512743218bdd2fec32f5162e4b3e48e.jpg"
+      ],
+      "platforms": [
+        "Android"
+      ],
+      "categories": [
+        "Education"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=by.iapps.pdd.by&hl=en&gl=us",
+      "country": "us",
+      "availableCountries": [
+        "us",
+        "by",
+        "kz",
+        "ua",
+        "ru"
+      ],
+      "language": "en",
+      "privacySource": "https://pages.flycricket.io/pdd-by-0/privacy.html",
+      "published": true,
+      "confirmedSync": "e1c03fe5-0dd1-4e07-b3e0-590539b9e475"
+    }
+  }
+}

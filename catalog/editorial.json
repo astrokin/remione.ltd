@@ -1,0 +1,120 @@
+{
+  "all-tv-brands-universal-remote": [
+    {
+      "title": "About Product",
+      "body": [
+        "All TV Brands Universal Remote turns an iPhone or iPad into a remote control for compatible Smart TVs, streaming devices, and media devices connected to the same Wi-Fi or local network.",
+        "The app helps users discover supported devices, pair with a selected TV, and send remote-control commands directly over the local network using compatible protocols. Remote commands are not routed through Remione servers unless expressly stated otherwise.",
+        "Core controls include power, volume, channel, navigation, menu, media playback, text input, app launching, quick channel shortcuts, touchpad keyboard controls, custom styles, colors, and rearrangeable remote elements where supported."
+      ]
+    },
+    {
+      "title": "Product Experience",
+      "body": [
+        "The app is designed for fast setup: grant Local Network permission, find compatible TVs on the same network, pair when required, and start controlling the selected device.",
+        "Users can keep connection preferences and selected device details on their own device so the remote opens quickly for repeat sessions."
+      ]
+    },
+    {
+      "title": "Privacy and Trust",
+      "body": [
+        "Local network discovery is used to find and communicate with compatible televisions and media devices. The app does not use local-network access to monitor unrelated devices or activities, and it does not intentionally collect Wi-Fi passwords.",
+        "Purchases and subscriptions are processed through Apple, while purchase status and entitlement information may be used to activate, validate, and restore paid functionality."
+      ]
+    },
+    {
+      "title": "Compatibility",
+      "body": [
+        "Compatibility depends on television brand and model, firmware, router settings, local-network permission, pairing requirements, manufacturer protocols, and operating-system changes. Some devices or features may require additional setup on the TV or network."
+      ]
+    }
+  ],
+  "drawio-ai-drawing-sketches": [
+    {
+      "title": "About Product",
+      "body": [
+        "Drawio is an innovative app that makes AI-driven art creation accessible to everyone, regardless of their skill level or technical background.",
+        "Why Choose Drawio?",
+        "1. Democratizing Creativity: Drawio empowers users to create unique, AI-generated artwork effortlessly. There’s no need for complex knowledge of models or prompts. It’s an easy and enjoyable way for anyone to dive into generative content, opening new horizons for personal creativity.",
+        "2. User-Friendly Learning: With Drawio’s interactive learning mode, users can enhance their drawing skills in a fun and engaging way. The AI provides real-time feedback on the accuracy of lines, making the learning process straightforward and rewarding, perfect for beginners and casual artists.",
+        "3. Relaxing ASMR Experience: Drawio offers a unique ASMR drawing mode that combines creativity with relaxation. Users can create art while enjoying soothing sounds, making it a perfect choice for those seeking a calming and enjoyable pastime.",
+        "Drawio is more than just an app; it’s a platform that invites everyone to explore the world of generative content in a fun and accessible way. It’s ideal for anyone looking to experience the joy of creating without the barriers typically associated with professional tools.",
+        "Experience the future of art creation with Drawio and discover how easy and enjoyable it can be to bring your creative visions to life!"
+      ]
+    },
+    {
+      "title": "Competitors and Market Analysis",
+      "body": [
+        "Our competitors have achieved significant success with creative and relaxation apps, boasting hundreds of thousands of downloads recently. Their user-friendly designs and clear monetization strategies have been key to their popularity.",
+        "The market for such apps is rapidly expanding, and the rise of AI generative tools is making art creation more accessible and enjoyable. This market is still in its early stages, presenting enormous opportunities for new entrants.",
+        "We aim to stand out by leveraging AI technology to simplify the creative process, introducing gamification elements like challenges and leaderboards, and employing a targeted marketing strategy on platforms like TikTok. With a thorough understanding of the market, we are well-positioned to capitalize on this growing trend and offer innovative solutions in this emerging space."
+      ]
+    },
+    {
+      "title": "Product Growth and Future Vision",
+      "body": [
+        "We envision our product becoming the “Duolingo of drawing,” a leading platform that democratizes art creation through intuitive AI tools and engaging gamification elements. Just as Duolingo has revolutionized language learning, we aim to transform the way people engage with art, making drawing accessible, enjoyable, and rewarding for everyone. By continually enhancing user experience and expanding our reach, we aspire to lead the burgeoning market for creative AI applications, turning everyday users into confident and inspired artists."
+      ]
+    },
+    {
+      "title": "Investment Opportunity",
+      "body": [
+        "Stage: First Clients",
+        "We are currently raising $200,000 in a pre-seed round through a SAFE (Simple Agreement for Future Equity) instrument. This investment round aims to accelerate our growth as we onboard our initial clients and continue to develop our platform.",
+        "Investment Details:",
+        "• Amount: $200,000",
+        "• Minimum Investment: $50,000",
+        "• Instrument: SAFE (Simple Agreement for Future Equity)",
+        "This funding will enable us to scale our operations, enhance our AI capabilities, and expand our market presence. Join us in revolutionizing the way people create and experience art, making it accessible to all."
+      ]
+    }
+  ],
+  "plan-post": [
+    {
+      "title": "About Product",
+      "body": [
+        "Plan Post is designed for influencers, marketers, and content creators to streamline their social media strategy. It features efficient scheduling, organized content planning, and AI-driven content generation, providing a dynamic calendar and personalized planning tools to enhance social media engagement."
+      ]
+    },
+    {
+      "title": "Competitors and Market Analysis",
+      "body": [
+        "The development of Plan Post involved extensive market research to understand the needs of social media influencers and marketers. The design process focused on creating an intuitive interface that simplifies the planning and scheduling of content. Features such as AI-driven content generation and a dynamic calendar were developed to provide users with powerful tools to enhance their social media strategy."
+      ]
+    },
+    {
+      "title": "Product Growth and Future Vision",
+      "body": [
+        "Plan Post has successfully helped numerous influencers and marketers achieve consistent social media engagement and strategic audience growth. The app’s analytics tools have provided users with valuable insights, leading to optimized social media strategies and increased digital presence."
+      ]
+    },
+    {
+      "title": "Investment Opportunity",
+      "body": []
+    }
+  ],
+  "hermes": [
+    {
+      "title": "About Product",
+      "body": [
+        "Hermes allows you to immerse yourself in history by engaging in conversations with legendary figures from various fields such as science, art, and culture. This app provides a unique and engaging way to learn from the past, offering insights into historical events and eras through interactive chats."
+      ]
+    },
+    {
+      "title": "Competitors and Market Analysis",
+      "body": [
+        "The development of Hermes involved deep research into historical figures and events to create a vast database for the AI to draw from. The team focused on creating a seamless user experience that allows users to effortlessly initiate conversations and explore various historical periods and figures. Premium features such as personalized queries and ad-free experiences were developed to enhance user engagement."
+      ]
+    },
+    {
+      "title": "Product Growth and Future Vision",
+      "body": [
+        "Hermes has captivated users with its innovative approach to learning history, offering an engaging and educational platform to explore different eras. The app’s premium features have been particularly appreciated for their ability to offer a tailored and uninterrupted exploration of history, leading to a significant increase in user satisfaction and subscription rates."
+      ]
+    },
+    {
+      "title": "Investment Opportunity",
+      "body": []
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "file": "src/legal/terms-pdd-by.txt",
+    "source": "https://iapps.by/legal/by/terms/",
+    "copiedAt": "2026-09-21T06:13:01.532Z",
+    "sha256": "4886b251dd73ca421013c668029df85119210676db3c26569d4b4dfbe3cdc369",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/privacy-pdd-by.txt",
+    "source": "https://iapps.by/legal/by/privacy/",
+    "copiedAt": "2026-09-21T06:13:01.538Z",
+    "sha256": "c48375786735bc4da4634cbd3404680423a5090c8e23951cdda3571a386b1e02",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/terms-pdd-kz.txt",
+    "source": "https://iapps.by/legal/kz/terms/",
+    "copiedAt": "2026-09-21T06:13:01.538Z",
+    "sha256": "762585b31ef77006cec05036131063c6b0804fe0a4565e4c92b7e5e80d5a5ecc",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/privacy-pdd-kz.txt",
+    "source": "https://iapps.by/legal/kz/privacy/",
+    "copiedAt": "2026-09-21T06:13:01.539Z",
+    "sha256": "802455796d43ec927f313b61010420d4f2c55ddc2737ed0fea4d90df8004c698",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/terms-pdd-ua.txt",
+    "source": "https://iapps.by/legal/ua/terms/",
+    "copiedAt": "2026-09-21T06:13:01.539Z",
+    "sha256": "d6be639f47ee1f27d6f2ec043484e3f2034a70e1a17e7c62cd36fe36f42b9c83",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/privacy-pdd-ua.txt",
+    "source": "https://iapps.by/legal/ua/privacy/",
+    "copiedAt": "2026-09-21T06:13:01.540Z",
+    "sha256": "1c5a05865088ca0afdb34caee45ba1d4a875b6bee43ff66be40ad73d4751cb97",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/terms-pdd-ru.txt",
+    "source": "https://iapps.by/legal/ru/terms/",
+    "copiedAt": "2026-09-21T06:13:01.540Z",
+    "sha256": "2a5d8e24ebd771b41c983046351f51dc6c22cd9c2054dae5565b7dfb26fa4786",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/privacy-pdd-ru.txt",
+    "source": "https://iapps.by/legal/ru/privacy/",
+    "copiedAt": "2026-09-21T06:13:01.540Z",
+    "sha256": "9550ce9d6d47c14d6b3ea0974eeaaf93d273d91304110aaae1a5e24ca228ff7c",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/terms-pdd-uz.txt",
+    "source": "https://iapps.by/legal/uz/terms/",
+    "copiedAt": "2026-09-21T06:13:01.541Z",
+    "sha256": "41481b30f11de64318ec95042b80734681ac90603386b88b04e502b0e36c28cc",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/privacy-pdd-uz.txt",
+    "source": "https://iapps.by/legal/uz/privacy/",
+    "copiedAt": "2026-09-21T06:13:01.541Z",
+    "sha256": "b6f04eac61129c25f27a0fc7e7d4b4bc4de28f2adc15ce11ea28f36b0f61788d",
+    "copyMethod": "Byte-identical to published text export"
+  },
+  {
+    "file": "src/legal/terms-epopit.html",
+    "source": "https://epopit.app/terms-of-use",
+    "copiedAt": "2026-09-21T06:13:01.549Z",
+    "sha256": "6fb43020383dbd618331e4b4f9244b4d73d706ee08c80d5f0ade40f6cb94ce71",
+    "copyMethod": "Existing local project legal article; public domain DNS unavailable during verification"
+  },
+  {
+    "file": "src/legal/privacy-epopit.html",
+    "source": "https://epopit.app/privacy-policy",
+    "copiedAt": "2026-09-21T06:13:01.552Z",
+    "sha256": "ac91ddf4da7c03213eac7b4a71d1dea6c1cec5dd20b2ac3d4a8cf2796b92b8fc",
+    "copyMethod": "Existing local project legal article; public domain DNS unavailable during verification"
+  },
+  {
+    "file": "src/legal/terms-deep-river.html",
+    "source": "https://drivingtheorytest.org/termsandconditions/",
+    "copiedAt": "2026-09-21T06:13:01.562Z",
+    "sha256": "c65648ce6d0bda727275f00b53fd4e8154004e748366c287fe8f4f624f49054a",
+    "copyMethod": "Downloaded public legal article; presentation attributes removed, legal content preserved"
+  },
+  {
+    "file": "src/legal/privacy-deep-river.html",
+    "source": "https://drivingtheorytest.org/privacy-policy-ios/",
+    "copiedAt": "2026-09-21T06:13:01.571Z",
+    "sha256": "c9fa56e32f08dcb24736e32ead0cdc889ada236150f5cc36170c9bcb16885005",
+    "copyMethod": "Downloaded public legal article; presentation attributes removed, legal content preserved"
+  }
+]
